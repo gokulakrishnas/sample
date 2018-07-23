@@ -1,0 +1,1032 @@
+!SESSION 2018-02-23 15:25:57.471 -----------------------------------------------
+eclipse.buildId=4.3.2.M20140221-1700
+java.version=1.8.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.standard.product
+
+!ENTRY org.eclipse.objectteams.otequinox.hook 1 0 2018-02-23 15:25:59.551
+!MESSAGE Created equinox adaptor hook: org.eclipse.objectteams.otequinox.internal.hook.TransformerHook.
+ 	(To disable this and subsequent INFO messages from OT/Equinox set otequinox.debug to WARN or ERROR).
+
+!ENTRY org.eclipse.objectteams.otequinox.hook 2 0 2018-02-23 15:26:06.223
+!MESSAGE Not loading teams for bundle org.eclipse.ecf.examples.remoteservices.hello.ds.host (transformerPlugin not yet initialized)
+
+!ENTRY org.eclipse.objectteams.otequinox.hook 2 0 2018-02-23 15:26:06.224
+!MESSAGE Not loading teams for bundle org.eclipse.ecf.examples.remoteservices.hello (transformerPlugin not yet initialized)
+
+!ENTRY org.eclipse.objectteams.otequinox.hook 1 0 2018-02-23 15:26:22.242
+!MESSAGE OT/Equinox: connected the transformer service
+
+!ENTRY org.eclipse.objectteams.otequinox.hook 1 0 2018-02-23 15:26:35.379
+!MESSAGE hot-patched a bug in class org.apache.bcel.generic.InstructionHandle
+	see https://bugs.eclipse.org/bugs/show_bug.cgi?id=344350
+
+!ENTRY org.eclipse.objectteams.otequinox.hook 1 0 2018-02-23 15:26:35.380
+!MESSAGE hot-patched a bug in class org.apache.bcel.generic.BranchHandle
+	see https://bugs.eclipse.org/bugs/show_bug.cgi?id=344350
+
+!ENTRY com.genesyslab.composer.core 1 20000 2018-02-23 15:27:38.910
+!MESSAGE 2018-02-23 15:27:38,900 INFO main composer.core.Activator (?) - Log4j has been successfully configured - Please see C:/dotnet composer project/arithmetic operation/.metadata/.plugins/com.genesyslab.composer.core for detailed logging
+ 
+
+!ENTRY com.genesyslab.composer.route.thirdparty 1 20000 2018-02-23 15:27:39.098
+!MESSAGE 2018-02-23 15:27:39,097 INFO main com.genesyslab.platform.commons.log.Log - Checking PSDK jars versions:
+ 
+
+!ENTRY com.genesyslab.composer.route.thirdparty 1 20000 2018-02-23 15:27:40.414
+!MESSAGE 2018-02-23 15:27:40,414 INFO main com.genesyslab.platform.commons.log.Log - PSDK jar in the classpath: kvlists.jar of 8.1.400.03 (com.genesyslab.platform.commons.collections by Genesys Telecommunication Laboratories, Inc.)
+ 
+
+!ENTRY com.genesyslab.composer.route.thirdparty 1 20000 2018-02-23 15:27:40.416
+!MESSAGE 2018-02-23 15:27:40,415 INFO main com.genesyslab.platform.commons.log.Log - PSDK jar in the classpath: kvlistbinding.jar of 8.1.400.03 (com.genesyslab.platform.commons.collections.keyvaluebinding by Genesys Telecommunication Laboratories, Inc.)
+ 
+
+!ENTRY com.genesyslab.composer.route.thirdparty 1 20000 2018-02-23 15:27:40.417
+!MESSAGE 2018-02-23 15:27:40,416 INFO main com.genesyslab.platform.commons.log.Log - PSDK jar in the classpath: commons.jar of 8.1.400.03 (com.genesyslab.platform.commons by Genesys Telecommunication Laboratories, Inc.)
+ 
+
+!ENTRY com.genesyslab.composer.route.thirdparty 1 20000 2018-02-23 15:27:40.418
+!MESSAGE 2018-02-23 15:27:40,417 INFO main com.genesyslab.platform.commons.log.Log - PSDK jar in the classpath: system.jar of 8.1.400.03 (com.genesyslab.platform.system by Genesys Telecommunication Laboratories, Inc.)
+ 
+
+!ENTRY com.genesyslab.composer.route.thirdparty 1 20000 2018-02-23 15:27:40.419
+!MESSAGE 2018-02-23 15:27:40,418 INFO main com.genesyslab.platform.commons.log.Log - PSDK jar in the classpath: connection.jar of 8.1.400.03 (com.genesyslab.platform.commons.connection by Genesys Telecommunication Laboratories, Inc.)
+ 
+
+!ENTRY com.genesyslab.composer.route.thirdparty 1 20000 2018-02-23 15:27:40.420
+!MESSAGE 2018-02-23 15:27:40,419 INFO main com.genesyslab.platform.commons.log.Log - PSDK jar in the classpath: protocol.jar of 8.1.400.03 (com.genesyslab.platform.commons.protocol by Genesys Telecommunication Laboratories, Inc.)
+ 
+
+!ENTRY com.genesyslab.composer.route.thirdparty 1 20000 2018-02-23 15:27:40.420
+!MESSAGE 2018-02-23 15:27:40,420 INFO main com.genesyslab.platform.commons.log.Log - PSDK jar in the classpath: configurationprotocol.jar of 8.1.400.03 (com.genesyslab.platform.configuration.protocol by Genesys Telecommunication Laboratories, Inc.)
+ 
+
+!ENTRY com.genesyslab.composer.route.thirdparty 1 20000 2018-02-23 15:27:40.421
+!MESSAGE 2018-02-23 15:27:40,421 INFO main com.genesyslab.platform.commons.log.Log - PSDK jar in the classpath: contactsprotocol.jar of 8.1.400.03 (com.genesyslab.platform.contacts.protocol by Genesys Telecommunication Laboratories, Inc.)
+ 
+
+!ENTRY com.genesyslab.composer.route.thirdparty 1 20000 2018-02-23 15:27:40.422
+!MESSAGE 2018-02-23 15:27:40,422 INFO main com.genesyslab.platform.commons.log.Log - PSDK jar in the classpath: managementprotocol.jar of 8.1.400.03 (com.genesyslab.platform.management.protocol by Genesys Telecommunication Laboratories, Inc.)
+ 
+
+!ENTRY com.genesyslab.composer.route.thirdparty 1 20000 2018-02-23 15:27:40.423
+!MESSAGE 2018-02-23 15:27:40,423 INFO main com.genesyslab.platform.commons.log.Log - PSDK jar in the classpath: openmediaprotocol.jar of 8.1.400.03 (com.genesyslab.platform.openmedia.protocol by Genesys Telecommunication Laboratories, Inc.)
+ 
+
+!ENTRY com.genesyslab.composer.route.thirdparty 1 20000 2018-02-23 15:27:40.424
+!MESSAGE 2018-02-23 15:27:40,424 INFO main com.genesyslab.platform.commons.log.Log - PSDK jar in the classpath: outboundprotocol.jar of 8.1.400.03 (com.genesyslab.platform.outbound/protocol by Genesys Telecommunication Laboratories, Inc.)
+ 
+
+!ENTRY com.genesyslab.composer.route.thirdparty 1 20000 2018-02-23 15:27:40.425
+!MESSAGE 2018-02-23 15:27:40,424 INFO main com.genesyslab.platform.commons.log.Log - PSDK jar in the classpath: routingprotocol.jar of 8.1.400.03 (com.genesyslab.platform.routing.protocol by Genesys Telecommunication Laboratories, Inc.)
+ 
+
+!ENTRY com.genesyslab.composer.route.thirdparty 1 20000 2018-02-23 15:27:40.426
+!MESSAGE 2018-02-23 15:27:40,425 INFO main com.genesyslab.platform.commons.log.Log - PSDK jar in the classpath: reportingprotocol.jar of 8.1.400.03 (com.genesyslab.platform.reporting.protocol by Genesys Telecommunication Laboratories, Inc.)
+ 
+
+!ENTRY com.genesyslab.composer.route.thirdparty 1 20000 2018-02-23 15:27:40.426
+!MESSAGE 2018-02-23 15:27:40,426 INFO main com.genesyslab.platform.commons.log.Log - PSDK jar in the classpath: voiceprotocol.jar of 8.1.400.03 (com.genesyslab.platform.voice.protocol by Genesys Telecommunication Laboratories, Inc.)
+ 
+
+!ENTRY com.genesyslab.composer.route.thirdparty 1 20000 2018-02-23 15:27:40.427
+!MESSAGE 2018-02-23 15:27:40,427 INFO main com.genesyslab.platform.commons.log.Log - PSDK jar in the classpath: webmediaprotocol.jar of 8.1.400.03 (com.genesyslab.platform.webmedia.protocol by Genesys Telecommunication Laboratories, Inc.)
+ 
+
+!ENTRY com.genesyslab.composer.route.thirdparty 1 20000 2018-02-23 15:27:40.428
+!MESSAGE 2018-02-23 15:27:40,428 INFO main com.genesyslab.platform.commons.log.Log - PSDK jar in the classpath: messagebrokerappblock.jar of 8.1.400.03 (com.genesyslab.platform.applicationblocks.commons by Genesys Telecommunication Laboratories, Inc.)
+ 
+
+!ENTRY com.genesyslab.composer.route.thirdparty 1 20000 2018-02-23 15:27:40.429
+!MESSAGE 2018-02-23 15:27:40,429 INFO main com.genesyslab.platform.commons.log.Log - PSDK jar in the classpath: warmstandbyappblock.jar of 8.1.400.03 (com.genesyslab.platform.applicationblocks.warmstandby by Genesys Telecommunication Laboratories, Inc.)
+ 
+
+!ENTRY com.genesyslab.composer.route.thirdparty 1 20000 2018-02-23 15:27:40.430
+!MESSAGE 2018-02-23 15:27:40,430 INFO main com.genesyslab.platform.commons.log.Log - PSDK jar in the classpath: protocolmanagerappblock.jar of 8.1.400.03 (com.genesyslab.platform.applicationblocks.commons.protocols by Genesys Telecommunication Laboratories, Inc.)
+ 
+
+!ENTRY com.genesyslab.composer.route.thirdparty 1 20000 2018-02-23 15:27:40.431
+!MESSAGE 2018-02-23 15:27:40,431 INFO main com.genesyslab.platform.commons.log.Log - PSDK jar in the classpath: comappblock.jar of 8.1.400.03 (com.genesyslab.platform.applicationblocks.com by Genesys Telecommunication Laboratories, Inc.)
+ 
+
+!ENTRY com.genesyslab.composer.route.thirdparty 1 20000 2018-02-23 15:27:40.441
+!MESSAGE 2018-02-23 15:27:40,439 INFO com.genesyslab.PCT.invoker.COM-MessageBroker com.genesyslab.platform.commons.threading.SingleThreadInvoker - SingleThreadInvoker('COM-MessageBroker') has started
+ 
+
+!ENTRY com.genesyslab.composer.route.ui 1 20000 2018-02-23 15:27:40.450
+!MESSAGE 2018-02-23 15:27:40,450 INFO main com.genesys.composer.route.ui.configserver.StateMachine - null=>NotConnectedState
+ 
+
+!ENTRY org.eclipse.jface 2 0 2018-02-23 15:27:41.499
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-02-23 15:27:41.499
+!MESSAGE A conflict occurred for ALT+CTRL+S:
+Binding(ALT+CTRL+S,
+	ParameterizedCommand(Command(org.eclipse.team.svn.ui.command.SynchronizeCommand,Synchronize with Repository,
+		,
+		Category(org.eclipse.team.svn.ui.command.category,SVN,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@47c0c321,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+S,
+	ParameterizedCommand(Command(com.genesyslab.composer.route.cme.StatisticManagerCommand,StatisticManager Command,
+		,
+		Category(org.eclipse.core.commands.categories.autogenerated,Uncategorized,Commands that were either auto-generated or have no category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@57ae90e3,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-02-23 15:27:41.499
+!MESSAGE A conflict occurred for ALT+CTRL+L:
+Binding(ALT+CTRL+L,
+	ParameterizedCommand(Command(org.eclipse.team.svn.ui.command.CompareWithLatestRevisionCommand,Latest from Repository,
+		,
+		Category(org.eclipse.team.svn.ui.command.category,SVN,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3c5e99d2,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+L,
+	ParameterizedCommand(Command(com.genesyslab.composer.route.cme.ListObjectManagerCommand,ListObjectManager Command,
+		,
+		Category(org.eclipse.core.commands.categories.autogenerated,Uncategorized,Commands that were either auto-generated or have no category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@637f63cb,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-02-23 15:27:41.499
+!MESSAGE A conflict occurred for ALT+CTRL+R:
+Binding(ALT+CTRL+R,
+	ParameterizedCommand(Command(org.eclipse.team.svn.ui.command.CompareWithRevisionCommand,URL...,
+		,
+		Category(org.eclipse.team.svn.ui.command.category,SVN,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@22e77d4e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+R,
+	ParameterizedCommand(Command(org.eclipse.ui.newWizard,New,
+		Open the New item wizard,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1edd879,
+		[Lorg.eclipse.e4.ui.internal.workbench.Parameter;@4935419f,,true),[Lorg.eclipse.core.commands.Parameterization;@51cc1249),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-02-23 15:27:41.499
+!MESSAGE A conflict occurred for ALT+CTRL+T:
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.team.svn.ui.command.EditPropertiesCommand,Show Properties,
+		,
+		Category(org.eclipse.team.svn.ui.command.category,SVN,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@48d80833,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.ui.newWizard,New,
+		Open the New item wizard,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1edd879,
+		[Lorg.eclipse.e4.ui.internal.workbench.Parameter;@4935419f,,true),[Lorg.eclipse.core.commands.Parameterization;@27992f41),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-02-23 15:27:41.499
+!MESSAGE A conflict occurred for ALT+CTRL+G:
+Binding(ALT+CTRL+G,
+	ParameterizedCommand(Command(org.eclipse.search.ui.performTextSearchWorkspace,Find Text in Workspace,
+		Searches the files in the workspace for specific text.,
+		Category(org.eclipse.search.ui.category.search,Search,Search command category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4443bb94,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+G,
+	ParameterizedCommand(Command(com.genesyslab.composer.common.LaunchGaxCommand,Launch GAX Server command,
+		,
+		Category(org.eclipse.core.commands.categories.autogenerated,Uncategorized,Commands that were either auto-generated or have no category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@75acb70f,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-02-23 15:27:41.499
+!MESSAGE A conflict occurred for ALT+CTRL+D:
+Binding(ALT+CTRL+D,
+	ParameterizedCommand(Command(org.eclipse.team.svn.ui.command.UpdateToRevisionCommand,Update to Revision,
+		,
+		Category(org.eclipse.team.svn.ui.command.category,SVN,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7d3da019,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+D,
+	ParameterizedCommand(Command(com.genesyslab.composer.querybuilder.databaseconnectioncommand,dbcommandname,
+		,
+		Category(org.eclipse.core.commands.categories.autogenerated,Uncategorized,Commands that were either auto-generated or have no category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@13b07bd8,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-02-23 15:27:41.499
+!MESSAGE A conflict occurred for ALT+CTRL+C:
+Binding(ALT+CTRL+C,
+	ParameterizedCommand(Command(org.eclipse.team.svn.ui.command.CommitCommand,Commit...,
+		,
+		Category(org.eclipse.team.svn.ui.command.category,SVN,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4a76ed21,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+C,
+	ParameterizedCommand(Command(com.genesyslab.composer.common.compilation.generateAllCommand,Generate All,
+		,
+		Category(org.eclipse.core.commands.categories.autogenerated,Uncategorized,Commands that were either auto-generated or have no category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5af22faf,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-02-23 15:27:41.499
+!MESSAGE A conflict occurred for ALT+SHIFT+X R:
+Binding(ALT+SHIFT+X R,
+	ParameterizedCommand(Command(org.eclipse.wst.server.launchShortcut.run,Run on Server,
+		Run the current selection on a server,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4adf7180,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+X R,
+	ParameterizedCommand(Command(org.eclipse.rap.ui.launch.RAPLaunchShortcut.run,Run RAP Application,
+		Run RAP Application,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5aa1adb8,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-02-23 15:27:41.499
+!MESSAGE A conflict occurred for ALT+SHIFT+D R:
+Binding(ALT+SHIFT+D R,
+	ParameterizedCommand(Command(org.eclipse.wst.server.launchShortcut.debug,Debug on Server,
+		Debug the current selection on a server,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@27c35c28,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+D R,
+	ParameterizedCommand(Command(org.eclipse.rap.ui.launch.RAPLaunchShortcut.debug,Debug RAP Application,
+		Debug RAP Application,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6c878028,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-02-23 15:27:41.499
+!MESSAGE A conflict occurred for ALT+SHIFT+Q E:
+Binding(ALT+SHIFT+Q E,
+	ParameterizedCommand(Command(org.eclipse.php.ui.explorer,PHP Script Explorer,
+		Shows the Script Explorer,
+		Category(org.eclipse.ui.category.views,Views,Commands for opening views,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5d65bf49,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+Q E,
+	ParameterizedCommand(Command(org.eclipse.ui.views.showView,Show View,
+		Shows a particular view,
+		Category(org.eclipse.ui.category.views,Views,Commands for opening views,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@afe1530,
+		[Lorg.eclipse.e4.ui.internal.workbench.Parameter;@37e12a5b,,true),[Lorg.eclipse.core.commands.Parameterization;@67b76a4f),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.genesyslab.composer.diagram 1 20000 2018-02-23 15:28:03.539
+!MESSAGE 2018-02-23 15:28:03,538 INFO Worker-0 composer.diagram.ComposerDiagramEditorPlugin (?) - Log4j has been successfully configured - Please see C:/dotnet composer project/arithmetic operation/.metadata/.plugins/com.genesyslab.composer.diagram for detailed logging
+ 
+
+!ENTRY com.genesyslab.studio.edit 1 20000 2018-02-23 15:28:06.466
+!MESSAGE 2018-02-23 15:28:06,464 INFO Worker-0 gvp.provider.StudioEditPlugin (?) - Log4j has been successfully configured - Please see C:/dotnet composer project/arithmetic operation/.metadata/.plugins/com.genesyslab.studio.edit for detailed logging
+ 
+
+!ENTRY com.genesyslab.composer.ipd.diagram 1 20000 2018-02-23 15:28:06.695
+!MESSAGE 2018-02-23 15:28:06,694 INFO Worker-0 diagram.part.IpdDiagramEditorPlugin (?) - Log4j has been successfully configured - Please see C:/dotnet composer project/arithmetic operation/.metadata/.plugins/com.genesyslab.composer.ipd.diagram for detailed logging
+ 
+
+!ENTRY com.genesyslab.composer.common.publish 1 20000 2018-02-23 15:28:06.728
+!MESSAGE 2018-02-23 15:28:06,727 INFO Worker-0 common.publish.Activator (?) - Log4j has been successfully configured - Please see C:/dotnet composer project/arithmetic operation/.metadata/.plugins/com.genesyslab.composer.common.publish for detailed logging
+ 
+
+!ENTRY com.genesyslab.composer.debug 1 20000 2018-02-23 15:28:06.757
+!MESSAGE 2018-02-23 15:28:06,756 INFO Worker-0 composer.debug.Activator (?) - Log4j has been successfully configured - Please see C:/dotnet composer project/arithmetic operation/.metadata/.plugins/com.genesyslab.composer.debug for detailed logging
+ 
+
+!ENTRY com.genesyslab.composer.route.debug.core 1 20000 2018-02-23 15:28:06.854
+!MESSAGE 2018-02-23 15:28:06,853 INFO Worker-0 debug.core.ORSDCorePlugin (?) - Log4j has been successfully configured - Please see C:/dotnet composer project/arithmetic operation/.metadata/.plugins/com.genesyslab.composer.route.debug.core for detailed logging
+ 
+
+!ENTRY com.genesyslab.composer.route.diagram 1 20000 2018-02-23 15:28:06.976
+!MESSAGE 2018-02-23 15:28:06,975 INFO Worker-0 diagram.part.IrdDiagramEditorPlugin (?) - Log4j has been successfully configured - Please see C:/dotnet composer project/arithmetic operation/.metadata/.plugins/com.genesyslab.composer.route.diagram for detailed logging
+ 
+
+!ENTRY com.genesyslab.composer.customizer 1 20000 2018-02-23 15:28:07.071
+!MESSAGE 2018-02-23 15:28:07,069 INFO Worker-0 composer.customizer.CustomizerPlugin (?) - Log4j has been successfully configured - Please see C:/dotnet composer project/arithmetic operation/.metadata/.plugins/com.genesyslab.composer.customizer for detailed logging
+ 
+
+!ENTRY com.genesyslab.composer.route.migration 1 20000 2018-02-23 15:28:07.783
+!MESSAGE 2018-02-23 15:28:07,782 INFO Worker-0 com.genesyslab.composer.route.migration.Activator - Log4j has been successfully configured - Please see C:/dotnet composer project/arithmetic operation/.metadata/.plugins/com.genesyslab.composer.route.migration for detailed logging
+ 
+
+!ENTRY com.genesyslab.composer.route.migration 1 20000 2018-02-23 15:28:07.787
+!MESSAGE 2018-02-23 15:28:07,786 INFO Worker-0 com.genesyslab.composer.route.migration.commandline.CommandLineMigration - Initializing Command Line IRD Migration.
+ 
+
+!ENTRY com.genesyslab.composer.route.migration 1 20000 2018-02-23 15:28:07.789
+!MESSAGE 2018-02-23 15:28:07,788 INFO Worker-0 com.genesyslab.composer.route.migration.commandline.CommandLineMigration - IRD Migration command line (0) args: -os
+ 
+
+!ENTRY com.genesyslab.composer.route.migration 1 20000 2018-02-23 15:28:07.790
+!MESSAGE 2018-02-23 15:28:07,789 INFO Worker-0 com.genesyslab.composer.route.migration.commandline.CommandLineMigration - IRD Migration command line (1) args: win32
+ 
+
+!ENTRY com.genesyslab.composer.route.migration 1 20000 2018-02-23 15:28:07.791
+!MESSAGE 2018-02-23 15:28:07,791 INFO Worker-0 com.genesyslab.composer.route.migration.commandline.CommandLineMigration - IRD Migration command line (2) args: -ws
+ 
+
+!ENTRY com.genesyslab.composer.route.migration 1 20000 2018-02-23 15:28:07.793
+!MESSAGE 2018-02-23 15:28:07,792 INFO Worker-0 com.genesyslab.composer.route.migration.commandline.CommandLineMigration - IRD Migration command line (3) args: win32
+ 
+
+!ENTRY com.genesyslab.composer.route.migration 1 20000 2018-02-23 15:28:07.795
+!MESSAGE 2018-02-23 15:28:07,794 INFO Worker-0 com.genesyslab.composer.route.migration.commandline.CommandLineMigration - IRD Migration command line (4) args: -arch
+ 
+
+!ENTRY com.genesyslab.composer.route.migration 1 20000 2018-02-23 15:28:07.796
+!MESSAGE 2018-02-23 15:28:07,795 INFO Worker-0 com.genesyslab.composer.route.migration.commandline.CommandLineMigration - IRD Migration command line (5) args: x86_64
+ 
+
+!ENTRY com.genesyslab.composer.route.migration 1 20000 2018-02-23 15:28:07.798
+!MESSAGE 2018-02-23 15:28:07,797 INFO Worker-0 com.genesyslab.composer.route.migration.commandline.CommandLineMigration - IRD Migration command line (6) args: -showsplash
+ 
+
+!ENTRY com.genesyslab.composer.route.migration 1 20000 2018-02-23 15:28:07.800
+!MESSAGE 2018-02-23 15:28:07,799 INFO Worker-0 com.genesyslab.composer.route.migration.commandline.CommandLineMigration - IRD Migration command line (7) args: E:\Software\eclipse-kepler\\plugins\org.eclipse.platform_4.3.2.v20140221-1700\splash.bmp
+ 
+
+!ENTRY com.genesyslab.composer.route.migration 1 20000 2018-02-23 15:28:07.802
+!MESSAGE 2018-02-23 15:28:07,801 INFO Worker-0 com.genesyslab.composer.route.migration.commandline.CommandLineMigration - IRD Migration command line (8) args: -launcher
+ 
+
+!ENTRY com.genesyslab.composer.route.migration 1 20000 2018-02-23 15:28:07.803
+!MESSAGE 2018-02-23 15:28:07,803 INFO Worker-0 com.genesyslab.composer.route.migration.commandline.CommandLineMigration - IRD Migration command line (9) args: E:\Software\eclipse-kepler\eclipse.exe
+ 
+
+!ENTRY com.genesyslab.composer.route.migration 1 20000 2018-02-23 15:28:07.804
+!MESSAGE 2018-02-23 15:28:07,804 INFO Worker-0 com.genesyslab.composer.route.migration.commandline.CommandLineMigration - IRD Migration command line (10) args: -name
+ 
+
+!ENTRY com.genesyslab.composer.route.migration 1 20000 2018-02-23 15:28:07.806
+!MESSAGE 2018-02-23 15:28:07,805 INFO Worker-0 com.genesyslab.composer.route.migration.commandline.CommandLineMigration - IRD Migration command line (11) args: Eclipse
+ 
+
+!ENTRY com.genesyslab.composer.route.migration 1 20000 2018-02-23 15:28:07.807
+!MESSAGE 2018-02-23 15:28:07,806 INFO Worker-0 com.genesyslab.composer.route.migration.commandline.CommandLineMigration - IRD Migration command line (12) args: --launcher.library
+ 
+
+!ENTRY com.genesyslab.composer.route.migration 1 20000 2018-02-23 15:28:07.808
+!MESSAGE 2018-02-23 15:28:07,807 INFO Worker-0 com.genesyslab.composer.route.migration.commandline.CommandLineMigration - IRD Migration command line (13) args: E:\Software\eclipse-kepler\\plugins/org.eclipse.equinox.launcher.win32.win32.x86_64_1.1.200.v20140116-2212\eclipse_1503.dll
+ 
+
+!ENTRY com.genesyslab.composer.route.migration 1 20000 2018-02-23 15:28:07.809
+!MESSAGE 2018-02-23 15:28:07,809 INFO Worker-0 com.genesyslab.composer.route.migration.commandline.CommandLineMigration - IRD Migration command line (14) args: -startup
+ 
+
+!ENTRY com.genesyslab.composer.route.migration 1 20000 2018-02-23 15:28:07.811
+!MESSAGE 2018-02-23 15:28:07,810 INFO Worker-0 com.genesyslab.composer.route.migration.commandline.CommandLineMigration - IRD Migration command line (15) args: E:\Software\eclipse-kepler\\plugins/org.eclipse.equinox.launcher_1.3.0.v20130327-1440.jar
+ 
+
+!ENTRY com.genesyslab.composer.route.migration 1 20000 2018-02-23 15:28:07.812
+!MESSAGE 2018-02-23 15:28:07,812 INFO Worker-0 com.genesyslab.composer.route.migration.commandline.CommandLineMigration - IRD Migration command line (16) args: --launcher.appendVmargs
+ 
+
+!ENTRY com.genesyslab.composer.route.migration 1 20000 2018-02-23 15:28:07.814
+!MESSAGE 2018-02-23 15:28:07,813 INFO Worker-0 com.genesyslab.composer.route.migration.commandline.CommandLineMigration - IRD Migration command line (17) args: -product
+ 
+
+!ENTRY com.genesyslab.composer.route.migration 1 20000 2018-02-23 15:28:07.815
+!MESSAGE 2018-02-23 15:28:07,815 INFO Worker-0 com.genesyslab.composer.route.migration.commandline.CommandLineMigration - IRD Migration command line (18) args: org.eclipse.epp.package.standard.product
+ 
+
+!ENTRY com.genesyslab.composer.route.migration 1 20000 2018-02-23 15:28:07.817
+!MESSAGE 2018-02-23 15:28:07,816 INFO Worker-0 com.genesyslab.composer.route.migration.commandline.CommandLineMigration - IRD Migration command line (19) args: -vm
+ 
+
+!ENTRY com.genesyslab.composer.route.migration 1 20000 2018-02-23 15:28:07.818
+!MESSAGE 2018-02-23 15:28:07,817 INFO Worker-0 com.genesyslab.composer.route.migration.commandline.CommandLineMigration - IRD Migration command line (20) args: E:\Software\eclipse-kepler\jre\bin\server\jvm.dll
+ 
+
+!ENTRY com.genesyslab.composer.voice.debug.core 1 20000 2018-02-23 15:28:07.881
+!MESSAGE 2018-02-23 15:28:07,880 INFO Worker-0 rtdclient.core.RTDClientCorePlugin (?) - Log4j has been successfully configured - Please see C:/dotnet composer project/arithmetic operation/.metadata/.plugins/com.genesyslab.composer.voice.debug.core for detailed logging
+ 
+
+!ENTRY com.genesyslab.studio.tomcatdeployer 1 20000 2018-02-23 15:28:08.233
+!MESSAGE 2018-02-23 15:28:08,233 INFO Worker-0 studio.tomcatdeployer.TomcatDeployerPlugin (?) - Log4j has been successfully configured - Please see C:/dotnet composer project/arithmetic operation/.metadata/.plugins/com.genesyslab.studio.tomcatdeployer for detailed logging
+ 
+
+!ENTRY com.genesyslab.studio.diagram 1 20000 2018-02-23 15:28:10.342
+!MESSAGE 2018-02-23 15:28:10,340 INFO Worker-0 diagram.part.StudioDiagramEditorPlugin (?) - Log4j has been successfully configured - Please see C:/dotnet composer project/arithmetic operation/.metadata/.plugins/com.genesyslab.studio.diagram for detailed logging
+ 
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-02-23 15:28:41.132
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-02-23 15:28:41.135
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\gokulakrishnas.GADAGET'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 0 2018-02-23 15:29:31.670
+!MESSAGE Unexpected error loading extension: org.eclipse.equinox.p2.metadata.repository.compositeRepository
+!STACK 0
+java.lang.IllegalStateException: BundleContext is no longer valid
+	at org.eclipse.osgi.framework.internal.core.BundleContextImpl.checkValid(BundleContextImpl.java:931)
+	at org.eclipse.osgi.framework.internal.core.BundleContextImpl.getServiceReference(BundleContextImpl.java:528)
+	at org.eclipse.equinox.internal.p2.core.helpers.ServiceHelper.getService(ServiceHelper.java:63)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.getSharedPreferences(AbstractRepositoryManager.java:512)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.restoreRepositories(AbstractRepositoryManager.java:1016)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.getRepositoryProperty(AbstractRepositoryManager.java:564)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:686)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.addChild(CompositeMetadataRepository.java:166)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.<init>(CompositeMetadataRepository.java:106)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepositoryFactory.load(CompositeMetadataRepositoryFactory.java:122)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:57)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:768)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:668)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.addChild(CompositeMetadataRepository.java:166)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.<init>(CompositeMetadataRepository.java:106)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepositoryFactory.load(CompositeMetadataRepositoryFactory.java:122)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:57)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:768)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:668)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.getAvailableRepositories(UpdateChecker.java:150)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.checkForUpdates(UpdateChecker.java:128)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker$UpdateCheckThread.run(UpdateChecker.java:72)
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2018-02-23 15:29:31.683
+!MESSAGE Provisioning exception
+!STACK 1
+org.eclipse.equinox.p2.core.ProvisionException: No repository found at http://download.eclipse.org/modeling/tmf/xtext/updates/releases/.
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.fail(AbstractRepositoryManager.java:395)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:692)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.addChild(CompositeMetadataRepository.java:166)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.<init>(CompositeMetadataRepository.java:106)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepositoryFactory.load(CompositeMetadataRepositoryFactory.java:122)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:57)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:768)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:668)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.getAvailableRepositories(UpdateChecker.java:150)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.checkForUpdates(UpdateChecker.java:128)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker$UpdateCheckThread.run(UpdateChecker.java:72)
+!SUBENTRY 1 org.eclipse.equinox.p2.metadata.repository 4 1000 2018-02-23 15:29:31.683
+!MESSAGE No repository found at http://download.eclipse.org/modeling/tmf/xtext/updates/releases/.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 0 2018-02-23 15:29:31.685
+!MESSAGE Unexpected error loading extension: org.eclipse.equinox.p2.metadata.repository.compositeRepository
+!STACK 0
+java.lang.IllegalStateException: BundleContext is no longer valid
+	at org.eclipse.osgi.framework.internal.core.BundleContextImpl.checkValid(BundleContextImpl.java:931)
+	at org.eclipse.osgi.framework.internal.core.BundleContextImpl.getServiceReference(BundleContextImpl.java:528)
+	at org.eclipse.equinox.internal.p2.core.helpers.ServiceHelper.getService(ServiceHelper.java:63)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.getPreferences(AbstractRepositoryManager.java:497)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.remember(AbstractRepositoryManager.java:879)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.addRepository(AbstractRepositoryManager.java:170)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:655)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.addChild(CompositeMetadataRepository.java:166)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.<init>(CompositeMetadataRepository.java:106)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepositoryFactory.load(CompositeMetadataRepositoryFactory.java:122)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:57)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:768)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:668)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.getAvailableRepositories(UpdateChecker.java:150)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.checkForUpdates(UpdateChecker.java:128)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker$UpdateCheckThread.run(UpdateChecker.java:72)
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2018-02-23 15:29:31.686
+!MESSAGE No repository found at http://download.eclipse.org/modeling/tmf/xtext/updates/composite/releases/.
+
+!ENTRY org.eclipse.equinox.p2.updatechecker 4 0 2018-02-23 15:29:31.687
+!MESSAGE Exception in update check thread
+!STACK 0
+java.lang.IllegalStateException: BundleContext is no longer valid
+	at org.eclipse.osgi.framework.internal.core.BundleContextImpl.checkValid(BundleContextImpl.java:931)
+	at org.eclipse.osgi.framework.internal.core.BundleContextImpl.getServiceReference(BundleContextImpl.java:528)
+	at org.eclipse.equinox.internal.p2.core.helpers.ServiceHelper.getService(ServiceHelper.java:63)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.getPreferences(AbstractRepositoryManager.java:497)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.remember(AbstractRepositoryManager.java:879)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.addRepository(AbstractRepositoryManager.java:170)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:655)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.getAvailableRepositories(UpdateChecker.java:150)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.checkForUpdates(UpdateChecker.java:128)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker$UpdateCheckThread.run(UpdateChecker.java:72)
+!SESSION 2018-07-20 10:31:54.814 -----------------------------------------------
+eclipse.buildId=4.3.2.M20140221-1700
+java.version=1.8.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.standard.product -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.standard.product -data C:\dotnet composer project\arithmetic operation -product org.eclipse.epp.package.standard.product
+
+!ENTRY org.eclipse.objectteams.otequinox.hook 1 0 2018-07-20 10:31:54.997
+!MESSAGE Created equinox adaptor hook: org.eclipse.objectteams.otequinox.internal.hook.TransformerHook.
+ 	(To disable this and subsequent INFO messages from OT/Equinox set otequinox.debug to WARN or ERROR).
+
+!ENTRY org.eclipse.objectteams.otequinox.hook 2 0 2018-07-20 10:31:55.607
+!MESSAGE Not loading teams for bundle org.eclipse.ecf.examples.remoteservices.hello.ds.host (transformerPlugin not yet initialized)
+
+!ENTRY org.eclipse.objectteams.otequinox.hook 2 0 2018-07-20 10:31:55.609
+!MESSAGE Not loading teams for bundle org.eclipse.ecf.examples.remoteservices.hello (transformerPlugin not yet initialized)
+
+!ENTRY org.eclipse.objectteams.otequinox.hook 1 0 2018-07-20 10:31:56.336
+!MESSAGE OT/Equinox: connected the transformer service
+
+!ENTRY org.eclipse.objectteams.otequinox.hook 1 0 2018-07-20 10:31:58.135
+!MESSAGE hot-patched a bug in class org.apache.bcel.generic.InstructionHandle
+	see https://bugs.eclipse.org/bugs/show_bug.cgi?id=344350
+
+!ENTRY org.eclipse.objectteams.otequinox.hook 1 0 2018-07-20 10:31:58.136
+!MESSAGE hot-patched a bug in class org.apache.bcel.generic.BranchHandle
+	see https://bugs.eclipse.org/bugs/show_bug.cgi?id=344350
+
+!ENTRY com.genesyslab.composer.core 1 20000 2018-07-20 10:32:06.775
+!MESSAGE 2018-07-20 10:32:06,771 INFO main composer.core.Activator (?) - Log4j has been successfully configured - Please see C:/dotnet composer project/arithmetic operation/.metadata/.plugins/com.genesyslab.composer.core for detailed logging
+ 
+
+!ENTRY com.genesyslab.composer.route.thirdparty 1 20000 2018-07-20 10:32:06.799
+!MESSAGE 2018-07-20 10:32:06,789 INFO main com.genesyslab.platform.commons.log.Log - Checking PSDK jars versions:
+ 
+
+!ENTRY com.genesyslab.composer.route.thirdparty 1 20000 2018-07-20 10:32:07.184
+!MESSAGE 2018-07-20 10:32:07,184 INFO main com.genesyslab.platform.commons.log.Log - PSDK jar in the classpath: kvlists.jar of 8.1.400.03 (com.genesyslab.platform.commons.collections by Genesys Telecommunication Laboratories, Inc.)
+ 
+
+!ENTRY com.genesyslab.composer.route.thirdparty 1 20000 2018-07-20 10:32:07.185
+!MESSAGE 2018-07-20 10:32:07,185 INFO main com.genesyslab.platform.commons.log.Log - PSDK jar in the classpath: kvlistbinding.jar of 8.1.400.03 (com.genesyslab.platform.commons.collections.keyvaluebinding by Genesys Telecommunication Laboratories, Inc.)
+ 
+
+!ENTRY com.genesyslab.composer.route.thirdparty 1 20000 2018-07-20 10:32:07.186
+!MESSAGE 2018-07-20 10:32:07,185 INFO main com.genesyslab.platform.commons.log.Log - PSDK jar in the classpath: commons.jar of 8.1.400.03 (com.genesyslab.platform.commons by Genesys Telecommunication Laboratories, Inc.)
+ 
+
+!ENTRY com.genesyslab.composer.route.thirdparty 1 20000 2018-07-20 10:32:07.187
+!MESSAGE 2018-07-20 10:32:07,186 INFO main com.genesyslab.platform.commons.log.Log - PSDK jar in the classpath: system.jar of 8.1.400.03 (com.genesyslab.platform.system by Genesys Telecommunication Laboratories, Inc.)
+ 
+
+!ENTRY com.genesyslab.composer.route.thirdparty 1 20000 2018-07-20 10:32:07.188
+!MESSAGE 2018-07-20 10:32:07,187 INFO main com.genesyslab.platform.commons.log.Log - PSDK jar in the classpath: connection.jar of 8.1.400.03 (com.genesyslab.platform.commons.connection by Genesys Telecommunication Laboratories, Inc.)
+ 
+
+!ENTRY com.genesyslab.composer.route.thirdparty 1 20000 2018-07-20 10:32:07.188
+!MESSAGE 2018-07-20 10:32:07,188 INFO main com.genesyslab.platform.commons.log.Log - PSDK jar in the classpath: protocol.jar of 8.1.400.03 (com.genesyslab.platform.commons.protocol by Genesys Telecommunication Laboratories, Inc.)
+ 
+
+!ENTRY com.genesyslab.composer.route.thirdparty 1 20000 2018-07-20 10:32:07.189
+!MESSAGE 2018-07-20 10:32:07,189 INFO main com.genesyslab.platform.commons.log.Log - PSDK jar in the classpath: configurationprotocol.jar of 8.1.400.03 (com.genesyslab.platform.configuration.protocol by Genesys Telecommunication Laboratories, Inc.)
+ 
+
+!ENTRY com.genesyslab.composer.route.thirdparty 1 20000 2018-07-20 10:32:07.190
+!MESSAGE 2018-07-20 10:32:07,189 INFO main com.genesyslab.platform.commons.log.Log - PSDK jar in the classpath: contactsprotocol.jar of 8.1.400.03 (com.genesyslab.platform.contacts.protocol by Genesys Telecommunication Laboratories, Inc.)
+ 
+
+!ENTRY com.genesyslab.composer.route.thirdparty 1 20000 2018-07-20 10:32:07.190
+!MESSAGE 2018-07-20 10:32:07,190 INFO main com.genesyslab.platform.commons.log.Log - PSDK jar in the classpath: managementprotocol.jar of 8.1.400.03 (com.genesyslab.platform.management.protocol by Genesys Telecommunication Laboratories, Inc.)
+ 
+
+!ENTRY com.genesyslab.composer.route.thirdparty 1 20000 2018-07-20 10:32:07.191
+!MESSAGE 2018-07-20 10:32:07,191 INFO main com.genesyslab.platform.commons.log.Log - PSDK jar in the classpath: openmediaprotocol.jar of 8.1.400.03 (com.genesyslab.platform.openmedia.protocol by Genesys Telecommunication Laboratories, Inc.)
+ 
+
+!ENTRY com.genesyslab.composer.route.thirdparty 1 20000 2018-07-20 10:32:07.192
+!MESSAGE 2018-07-20 10:32:07,191 INFO main com.genesyslab.platform.commons.log.Log - PSDK jar in the classpath: outboundprotocol.jar of 8.1.400.03 (com.genesyslab.platform.outbound/protocol by Genesys Telecommunication Laboratories, Inc.)
+ 
+
+!ENTRY com.genesyslab.composer.route.thirdparty 1 20000 2018-07-20 10:32:07.192
+!MESSAGE 2018-07-20 10:32:07,192 INFO main com.genesyslab.platform.commons.log.Log - PSDK jar in the classpath: routingprotocol.jar of 8.1.400.03 (com.genesyslab.platform.routing.protocol by Genesys Telecommunication Laboratories, Inc.)
+ 
+
+!ENTRY com.genesyslab.composer.route.thirdparty 1 20000 2018-07-20 10:32:07.193
+!MESSAGE 2018-07-20 10:32:07,192 INFO main com.genesyslab.platform.commons.log.Log - PSDK jar in the classpath: reportingprotocol.jar of 8.1.400.03 (com.genesyslab.platform.reporting.protocol by Genesys Telecommunication Laboratories, Inc.)
+ 
+
+!ENTRY com.genesyslab.composer.route.thirdparty 1 20000 2018-07-20 10:32:07.194
+!MESSAGE 2018-07-20 10:32:07,193 INFO main com.genesyslab.platform.commons.log.Log - PSDK jar in the classpath: voiceprotocol.jar of 8.1.400.03 (com.genesyslab.platform.voice.protocol by Genesys Telecommunication Laboratories, Inc.)
+ 
+
+!ENTRY com.genesyslab.composer.route.thirdparty 1 20000 2018-07-20 10:32:07.194
+!MESSAGE 2018-07-20 10:32:07,194 INFO main com.genesyslab.platform.commons.log.Log - PSDK jar in the classpath: webmediaprotocol.jar of 8.1.400.03 (com.genesyslab.platform.webmedia.protocol by Genesys Telecommunication Laboratories, Inc.)
+ 
+
+!ENTRY com.genesyslab.composer.route.thirdparty 1 20000 2018-07-20 10:32:07.195
+!MESSAGE 2018-07-20 10:32:07,195 INFO main com.genesyslab.platform.commons.log.Log - PSDK jar in the classpath: messagebrokerappblock.jar of 8.1.400.03 (com.genesyslab.platform.applicationblocks.commons by Genesys Telecommunication Laboratories, Inc.)
+ 
+
+!ENTRY com.genesyslab.composer.route.thirdparty 1 20000 2018-07-20 10:32:07.196
+!MESSAGE 2018-07-20 10:32:07,195 INFO main com.genesyslab.platform.commons.log.Log - PSDK jar in the classpath: warmstandbyappblock.jar of 8.1.400.03 (com.genesyslab.platform.applicationblocks.warmstandby by Genesys Telecommunication Laboratories, Inc.)
+ 
+
+!ENTRY com.genesyslab.composer.route.thirdparty 1 20000 2018-07-20 10:32:07.196
+!MESSAGE 2018-07-20 10:32:07,196 INFO main com.genesyslab.platform.commons.log.Log - PSDK jar in the classpath: protocolmanagerappblock.jar of 8.1.400.03 (com.genesyslab.platform.applicationblocks.commons.protocols by Genesys Telecommunication Laboratories, Inc.)
+ 
+
+!ENTRY com.genesyslab.composer.route.thirdparty 1 20000 2018-07-20 10:32:07.197
+!MESSAGE 2018-07-20 10:32:07,197 INFO main com.genesyslab.platform.commons.log.Log - PSDK jar in the classpath: comappblock.jar of 8.1.400.03 (com.genesyslab.platform.applicationblocks.com by Genesys Telecommunication Laboratories, Inc.)
+ 
+
+!ENTRY com.genesyslab.composer.route.thirdparty 1 20000 2018-07-20 10:32:07.202
+!MESSAGE 2018-07-20 10:32:07,200 INFO com.genesyslab.PCT.invoker.COM-MessageBroker com.genesyslab.platform.commons.threading.SingleThreadInvoker - SingleThreadInvoker('COM-MessageBroker') has started
+ 
+
+!ENTRY com.genesyslab.composer.route.ui 1 20000 2018-07-20 10:32:07.206
+!MESSAGE 2018-07-20 10:32:07,205 INFO main com.genesys.composer.route.ui.configserver.StateMachine - null=>NotConnectedState
+ 
+
+!ENTRY org.eclipse.jface 2 0 2018-07-20 10:32:07.643
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-07-20 10:32:07.643
+!MESSAGE A conflict occurred for ALT+CTRL+L:
+Binding(ALT+CTRL+L,
+	ParameterizedCommand(Command(org.eclipse.team.svn.ui.command.CompareWithLatestRevisionCommand,Latest from Repository,
+		,
+		Category(org.eclipse.team.svn.ui.command.category,SVN,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@f54d810,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+L,
+	ParameterizedCommand(Command(com.genesyslab.composer.route.cme.ListObjectManagerCommand,ListObjectManager Command,
+		,
+		Category(org.eclipse.core.commands.categories.autogenerated,Uncategorized,Commands that were either auto-generated or have no category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@484c1b5f,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-07-20 10:32:07.643
+!MESSAGE A conflict occurred for ALT+CTRL+S:
+Binding(ALT+CTRL+S,
+	ParameterizedCommand(Command(org.eclipse.team.svn.ui.command.SynchronizeCommand,Synchronize with Repository,
+		,
+		Category(org.eclipse.team.svn.ui.command.category,SVN,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4b04996f,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+S,
+	ParameterizedCommand(Command(com.genesyslab.composer.route.cme.StatisticManagerCommand,StatisticManager Command,
+		,
+		Category(org.eclipse.core.commands.categories.autogenerated,Uncategorized,Commands that were either auto-generated or have no category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@13a1e380,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-07-20 10:32:07.643
+!MESSAGE A conflict occurred for ALT+CTRL+T:
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.team.svn.ui.command.EditPropertiesCommand,Show Properties,
+		,
+		Category(org.eclipse.team.svn.ui.command.category,SVN,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3a9c3dbc,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.ui.newWizard,New,
+		Open the New item wizard,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@12a24f53,
+		[Lorg.eclipse.e4.ui.internal.workbench.Parameter;@7d827389,,true),[Lorg.eclipse.core.commands.Parameterization;@61a3225a),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-07-20 10:32:07.643
+!MESSAGE A conflict occurred for ALT+CTRL+D:
+Binding(ALT+CTRL+D,
+	ParameterizedCommand(Command(org.eclipse.team.svn.ui.command.UpdateToRevisionCommand,Update to Revision,
+		,
+		Category(org.eclipse.team.svn.ui.command.category,SVN,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3a09920f,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+D,
+	ParameterizedCommand(Command(com.genesyslab.composer.querybuilder.databaseconnectioncommand,dbcommandname,
+		,
+		Category(org.eclipse.core.commands.categories.autogenerated,Uncategorized,Commands that were either auto-generated or have no category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3a519aca,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-07-20 10:32:07.643
+!MESSAGE A conflict occurred for ALT+CTRL+G:
+Binding(ALT+CTRL+G,
+	ParameterizedCommand(Command(org.eclipse.search.ui.performTextSearchWorkspace,Find Text in Workspace,
+		Searches the files in the workspace for specific text.,
+		Category(org.eclipse.search.ui.category.search,Search,Search command category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5421a832,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+G,
+	ParameterizedCommand(Command(com.genesyslab.composer.common.LaunchGaxCommand,Launch GAX Server command,
+		,
+		Category(org.eclipse.core.commands.categories.autogenerated,Uncategorized,Commands that were either auto-generated or have no category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2c68f11e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-07-20 10:32:07.643
+!MESSAGE A conflict occurred for ALT+CTRL+R:
+Binding(ALT+CTRL+R,
+	ParameterizedCommand(Command(org.eclipse.team.svn.ui.command.CompareWithRevisionCommand,URL...,
+		,
+		Category(org.eclipse.team.svn.ui.command.category,SVN,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5a878776,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+R,
+	ParameterizedCommand(Command(org.eclipse.ui.newWizard,New,
+		Open the New item wizard,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@12a24f53,
+		[Lorg.eclipse.e4.ui.internal.workbench.Parameter;@7d827389,,true),[Lorg.eclipse.core.commands.Parameterization;@6c36c126),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-07-20 10:32:07.643
+!MESSAGE A conflict occurred for ALT+CTRL+C:
+Binding(ALT+CTRL+C,
+	ParameterizedCommand(Command(org.eclipse.team.svn.ui.command.CommitCommand,Commit...,
+		,
+		Category(org.eclipse.team.svn.ui.command.category,SVN,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@358f94aa,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+C,
+	ParameterizedCommand(Command(com.genesyslab.composer.common.compilation.generateAllCommand,Generate All,
+		,
+		Category(org.eclipse.core.commands.categories.autogenerated,Uncategorized,Commands that were either auto-generated or have no category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5e046304,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-07-20 10:32:07.643
+!MESSAGE A conflict occurred for ALT+SHIFT+Q E:
+Binding(ALT+SHIFT+Q E,
+	ParameterizedCommand(Command(org.eclipse.php.ui.explorer,PHP Script Explorer,
+		Shows the Script Explorer,
+		Category(org.eclipse.ui.category.views,Views,Commands for opening views,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@38def385,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+Q E,
+	ParameterizedCommand(Command(org.eclipse.ui.views.showView,Show View,
+		Shows a particular view,
+		Category(org.eclipse.ui.category.views,Views,Commands for opening views,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@623b2a49,
+		[Lorg.eclipse.e4.ui.internal.workbench.Parameter;@2bd8c860,,true),[Lorg.eclipse.core.commands.Parameterization;@5639825c),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-07-20 10:32:07.643
+!MESSAGE A conflict occurred for ALT+SHIFT+D R:
+Binding(ALT+SHIFT+D R,
+	ParameterizedCommand(Command(org.eclipse.wst.server.launchShortcut.debug,Debug on Server,
+		Debug the current selection on a server,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@193411c5,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+D R,
+	ParameterizedCommand(Command(org.eclipse.rap.ui.launch.RAPLaunchShortcut.debug,Debug RAP Application,
+		Debug RAP Application,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@22e619c8,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-07-20 10:32:07.643
+!MESSAGE A conflict occurred for ALT+SHIFT+X R:
+Binding(ALT+SHIFT+X R,
+	ParameterizedCommand(Command(org.eclipse.wst.server.launchShortcut.run,Run on Server,
+		Run the current selection on a server,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4f105e3c,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+X R,
+	ParameterizedCommand(Command(org.eclipse.rap.ui.launch.RAPLaunchShortcut.run,Run RAP Application,
+		Run RAP Application,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@55a10ee0,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.genesyslab.composer.diagram 1 20000 2018-07-20 10:32:11.333
+!MESSAGE 2018-07-20 10:32:11,330 INFO Worker-1 composer.diagram.ComposerDiagramEditorPlugin (?) - Log4j has been successfully configured - Please see C:/dotnet composer project/arithmetic operation/.metadata/.plugins/com.genesyslab.composer.diagram for detailed logging
+ 
+
+!ENTRY com.genesyslab.composer.diagram 1 20000 2018-07-20 10:32:11.443
+!MESSAGE 2018-07-20 10:32:11,442 INFO Worker-1 internal.palette.BackingStore (?) - Try loading file - file:/C:/dotnet%20composer%20project/arithmetic%20operation/.metadata/.plugins/com.genesyslab.composer.diagram/studio_tooling.ctooling
+ 
+
+!ENTRY com.genesyslab.composer.diagram 1 20000 2018-07-20 10:32:11.502
+!MESSAGE 2018-07-20 10:32:11,501 INFO Worker-1 internal.palette.BackingStore (?) - Try loading file - file:/C:/dotnet%20composer%20project/arithmetic%20operation/.metadata/.plugins/com.genesyslab.composer.diagram/ird_tooling.ctooling
+ 
+
+!ENTRY com.genesyslab.studio.edit 1 20000 2018-07-20 10:32:11.680
+!MESSAGE 2018-07-20 10:32:11,679 INFO Worker-1 gvp.provider.StudioEditPlugin (?) - Log4j has been successfully configured - Please see C:/dotnet composer project/arithmetic operation/.metadata/.plugins/com.genesyslab.studio.edit for detailed logging
+ 
+
+!ENTRY com.genesyslab.composer.ipd.diagram 1 20000 2018-07-20 10:32:11.707
+!MESSAGE 2018-07-20 10:32:11,706 INFO Worker-1 diagram.part.IpdDiagramEditorPlugin (?) - Log4j has been successfully configured - Please see C:/dotnet composer project/arithmetic operation/.metadata/.plugins/com.genesyslab.composer.ipd.diagram for detailed logging
+ 
+
+!ENTRY com.genesyslab.composer.common.publish 1 20000 2018-07-20 10:32:11.716
+!MESSAGE 2018-07-20 10:32:11,715 INFO Worker-1 common.publish.Activator (?) - Log4j has been successfully configured - Please see C:/dotnet composer project/arithmetic operation/.metadata/.plugins/com.genesyslab.composer.common.publish for detailed logging
+ 
+
+!ENTRY com.genesyslab.composer.debug 1 20000 2018-07-20 10:32:11.725
+!MESSAGE 2018-07-20 10:32:11,724 INFO Worker-1 composer.debug.Activator (?) - Log4j has been successfully configured - Please see C:/dotnet composer project/arithmetic operation/.metadata/.plugins/com.genesyslab.composer.debug for detailed logging
+ 
+
+!ENTRY com.genesyslab.composer.route.debug.core 1 20000 2018-07-20 10:32:11.730
+!MESSAGE 2018-07-20 10:32:11,729 INFO Worker-1 debug.core.ORSDCorePlugin (?) - Log4j has been successfully configured - Please see C:/dotnet composer project/arithmetic operation/.metadata/.plugins/com.genesyslab.composer.route.debug.core for detailed logging
+ 
+
+!ENTRY com.genesyslab.composer.route.diagram 1 20000 2018-07-20 10:32:11.756
+!MESSAGE 2018-07-20 10:32:11,755 INFO Worker-1 diagram.part.IrdDiagramEditorPlugin (?) - Log4j has been successfully configured - Please see C:/dotnet composer project/arithmetic operation/.metadata/.plugins/com.genesyslab.composer.route.diagram for detailed logging
+ 
+
+!ENTRY com.genesyslab.composer.customizer 1 20000 2018-07-20 10:32:11.762
+!MESSAGE 2018-07-20 10:32:11,761 INFO Worker-1 composer.customizer.CustomizerPlugin (?) - Log4j has been successfully configured - Please see C:/dotnet composer project/arithmetic operation/.metadata/.plugins/com.genesyslab.composer.customizer for detailed logging
+ 
+
+!ENTRY com.genesyslab.composer.route.migration 1 20000 2018-07-20 10:32:11.796
+!MESSAGE 2018-07-20 10:32:11,784 INFO Worker-1 com.genesyslab.composer.route.migration.Activator - Log4j has been successfully configured - Please see C:/dotnet composer project/arithmetic operation/.metadata/.plugins/com.genesyslab.composer.route.migration for detailed logging
+ 
+
+!ENTRY com.genesyslab.composer.route.migration 1 20000 2018-07-20 10:32:11.798
+!MESSAGE 2018-07-20 10:32:11,797 INFO Worker-1 com.genesyslab.composer.route.migration.commandline.CommandLineMigration - Initializing Command Line IRD Migration.
+ 
+
+!ENTRY com.genesyslab.composer.route.migration 1 20000 2018-07-20 10:32:11.799
+!MESSAGE 2018-07-20 10:32:11,798 INFO Worker-1 com.genesyslab.composer.route.migration.commandline.CommandLineMigration - IRD Migration command line (0) args: -os
+ 
+
+!ENTRY com.genesyslab.composer.route.migration 1 20000 2018-07-20 10:32:11.800
+!MESSAGE 2018-07-20 10:32:11,799 INFO Worker-1 com.genesyslab.composer.route.migration.commandline.CommandLineMigration - IRD Migration command line (1) args: win32
+ 
+
+!ENTRY com.genesyslab.composer.route.migration 1 20000 2018-07-20 10:32:11.800
+!MESSAGE 2018-07-20 10:32:11,800 INFO Worker-1 com.genesyslab.composer.route.migration.commandline.CommandLineMigration - IRD Migration command line (2) args: -ws
+ 
+
+!ENTRY com.genesyslab.composer.route.migration 1 20000 2018-07-20 10:32:11.801
+!MESSAGE 2018-07-20 10:32:11,801 INFO Worker-1 com.genesyslab.composer.route.migration.commandline.CommandLineMigration - IRD Migration command line (3) args: win32
+ 
+
+!ENTRY com.genesyslab.composer.route.migration 1 20000 2018-07-20 10:32:11.802
+!MESSAGE 2018-07-20 10:32:11,801 INFO Worker-1 com.genesyslab.composer.route.migration.commandline.CommandLineMigration - IRD Migration command line (4) args: -arch
+ 
+
+!ENTRY com.genesyslab.composer.route.migration 1 20000 2018-07-20 10:32:11.803
+!MESSAGE 2018-07-20 10:32:11,802 INFO Worker-1 com.genesyslab.composer.route.migration.commandline.CommandLineMigration - IRD Migration command line (5) args: x86_64
+ 
+
+!ENTRY com.genesyslab.composer.route.migration 1 20000 2018-07-20 10:32:11.804
+!MESSAGE 2018-07-20 10:32:11,803 INFO Worker-1 com.genesyslab.composer.route.migration.commandline.CommandLineMigration - IRD Migration command line (6) args: -showsplash
+ 
+
+!ENTRY com.genesyslab.composer.route.migration 1 20000 2018-07-20 10:32:11.806
+!MESSAGE 2018-07-20 10:32:11,804 INFO Worker-1 com.genesyslab.composer.route.migration.commandline.CommandLineMigration - IRD Migration command line (7) args: E:\Software\eclipse-kepler\\plugins\org.eclipse.platform_4.3.2.v20140221-1700\splash.bmp
+ 
+
+!ENTRY com.genesyslab.composer.route.migration 1 20000 2018-07-20 10:32:11.807
+!MESSAGE 2018-07-20 10:32:11,806 INFO Worker-1 com.genesyslab.composer.route.migration.commandline.CommandLineMigration - IRD Migration command line (8) args: -launcher
+ 
+
+!ENTRY com.genesyslab.composer.route.migration 1 20000 2018-07-20 10:32:11.808
+!MESSAGE 2018-07-20 10:32:11,807 INFO Worker-1 com.genesyslab.composer.route.migration.commandline.CommandLineMigration - IRD Migration command line (9) args: E:\Software\eclipse-kepler\eclipse.exe
+ 
+
+!ENTRY com.genesyslab.composer.route.migration 1 20000 2018-07-20 10:32:11.809
+!MESSAGE 2018-07-20 10:32:11,808 INFO Worker-1 com.genesyslab.composer.route.migration.commandline.CommandLineMigration - IRD Migration command line (10) args: -name
+ 
+
+!ENTRY com.genesyslab.composer.route.migration 1 20000 2018-07-20 10:32:11.809
+!MESSAGE 2018-07-20 10:32:11,809 INFO Worker-1 com.genesyslab.composer.route.migration.commandline.CommandLineMigration - IRD Migration command line (11) args: Eclipse
+ 
+
+!ENTRY com.genesyslab.composer.route.migration 1 20000 2018-07-20 10:32:11.810
+!MESSAGE 2018-07-20 10:32:11,810 INFO Worker-1 com.genesyslab.composer.route.migration.commandline.CommandLineMigration - IRD Migration command line (12) args: --launcher.library
+ 
+
+!ENTRY com.genesyslab.composer.route.migration 1 20000 2018-07-20 10:32:11.811
+!MESSAGE 2018-07-20 10:32:11,810 INFO Worker-1 com.genesyslab.composer.route.migration.commandline.CommandLineMigration - IRD Migration command line (13) args: E:\Software\eclipse-kepler\\plugins/org.eclipse.equinox.launcher.win32.win32.x86_64_1.1.200.v20140116-2212\eclipse_1503.dll
+ 
+
+!ENTRY com.genesyslab.composer.route.migration 1 20000 2018-07-20 10:32:11.812
+!MESSAGE 2018-07-20 10:32:11,811 INFO Worker-1 com.genesyslab.composer.route.migration.commandline.CommandLineMigration - IRD Migration command line (14) args: -startup
+ 
+
+!ENTRY com.genesyslab.composer.route.migration 1 20000 2018-07-20 10:32:11.813
+!MESSAGE 2018-07-20 10:32:11,812 INFO Worker-1 com.genesyslab.composer.route.migration.commandline.CommandLineMigration - IRD Migration command line (15) args: E:\Software\eclipse-kepler\\plugins/org.eclipse.equinox.launcher_1.3.0.v20130327-1440.jar
+ 
+
+!ENTRY com.genesyslab.composer.route.migration 1 20000 2018-07-20 10:32:11.813
+!MESSAGE 2018-07-20 10:32:11,813 INFO Worker-1 com.genesyslab.composer.route.migration.commandline.CommandLineMigration - IRD Migration command line (16) args: --launcher.appendVmargs
+ 
+
+!ENTRY com.genesyslab.composer.route.migration 1 20000 2018-07-20 10:32:11.814
+!MESSAGE 2018-07-20 10:32:11,814 INFO Worker-1 com.genesyslab.composer.route.migration.commandline.CommandLineMigration - IRD Migration command line (17) args: -product
+ 
+
+!ENTRY com.genesyslab.composer.route.migration 1 20000 2018-07-20 10:32:11.815
+!MESSAGE 2018-07-20 10:32:11,814 INFO Worker-1 com.genesyslab.composer.route.migration.commandline.CommandLineMigration - IRD Migration command line (18) args: org.eclipse.epp.package.standard.product
+ 
+
+!ENTRY com.genesyslab.composer.route.migration 1 20000 2018-07-20 10:32:11.816
+!MESSAGE 2018-07-20 10:32:11,815 INFO Worker-1 com.genesyslab.composer.route.migration.commandline.CommandLineMigration - IRD Migration command line (19) args: -data
+ 
+
+!ENTRY com.genesyslab.composer.route.migration 1 20000 2018-07-20 10:32:11.817
+!MESSAGE 2018-07-20 10:32:11,817 INFO Worker-1 com.genesyslab.composer.route.migration.commandline.CommandLineMigration - IRD Migration command line (20) args: C:\dotnet composer project\arithmetic operation
+ 
+
+!ENTRY com.genesyslab.composer.route.migration 1 20000 2018-07-20 10:32:11.819
+!MESSAGE 2018-07-20 10:32:11,817 INFO Worker-1 com.genesyslab.composer.route.migration.commandline.CommandLineMigration - IRD Migration command line (21) args: -launcher
+ 
+
+!ENTRY com.genesyslab.composer.route.migration 1 20000 2018-07-20 10:32:11.829
+!MESSAGE 2018-07-20 10:32:11,821 INFO Worker-1 com.genesyslab.composer.route.migration.commandline.CommandLineMigration - IRD Migration command line (22) args: E:\Software\eclipse-kepler\eclipse.exe
+ 
+
+!ENTRY com.genesyslab.composer.route.migration 1 20000 2018-07-20 10:32:11.830
+!MESSAGE 2018-07-20 10:32:11,829 INFO Worker-1 com.genesyslab.composer.route.migration.commandline.CommandLineMigration - IRD Migration command line (23) args: -product
+ 
+
+!ENTRY com.genesyslab.composer.route.migration 1 20000 2018-07-20 10:32:11.831
+!MESSAGE 2018-07-20 10:32:11,830 INFO Worker-1 com.genesyslab.composer.route.migration.commandline.CommandLineMigration - IRD Migration command line (24) args: org.eclipse.epp.package.standard.product
+ 
+
+!ENTRY com.genesyslab.composer.route.migration 1 20000 2018-07-20 10:32:11.831
+!MESSAGE 2018-07-20 10:32:11,831 INFO Worker-1 com.genesyslab.composer.route.migration.commandline.CommandLineMigration - IRD Migration command line (25) args: -vm
+ 
+
+!ENTRY com.genesyslab.composer.route.migration 1 20000 2018-07-20 10:32:11.836
+!MESSAGE 2018-07-20 10:32:11,832 INFO Worker-1 com.genesyslab.composer.route.migration.commandline.CommandLineMigration - IRD Migration command line (26) args: E:\Software\eclipse-kepler\jre\bin\server\jvm.dll
+ 
+
+!ENTRY com.genesyslab.composer.voice.debug.core 1 20000 2018-07-20 10:32:11.846
+!MESSAGE 2018-07-20 10:32:11,845 INFO Worker-1 rtdclient.core.RTDClientCorePlugin (?) - Log4j has been successfully configured - Please see C:/dotnet composer project/arithmetic operation/.metadata/.plugins/com.genesyslab.composer.voice.debug.core for detailed logging
+ 
+
+!ENTRY com.genesyslab.studio.tomcatdeployer 1 20000 2018-07-20 10:32:11.900
+!MESSAGE 2018-07-20 10:32:11,899 INFO Worker-1 studio.tomcatdeployer.TomcatDeployerPlugin (?) - Log4j has been successfully configured - Please see C:/dotnet composer project/arithmetic operation/.metadata/.plugins/com.genesyslab.studio.tomcatdeployer for detailed logging
+ 
+
+!ENTRY com.genesyslab.studio.diagram 1 20000 2018-07-20 10:32:11.921
+!MESSAGE 2018-07-20 10:32:11,921 INFO Worker-1 diagram.part.StudioDiagramEditorPlugin (?) - Log4j has been successfully configured - Please see C:/dotnet composer project/arithmetic operation/.metadata/.plugins/com.genesyslab.studio.diagram for detailed logging
+ 
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-07-20 10:32:12.405
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\gokulakrishnas.GADAGET'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.

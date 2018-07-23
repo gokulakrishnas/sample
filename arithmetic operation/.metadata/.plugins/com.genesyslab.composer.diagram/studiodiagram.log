@@ -1,0 +1,6 @@
+2018-02-23 15:28:03,538 INFO Worker-0 composer.diagram.ComposerDiagramEditorPlugin (?) - Log4j has been successfully configured - Please see C:/dotnet composer project/arithmetic operation/.metadata/.plugins/com.genesyslab.composer.diagram for detailed logging
+ 2018-02-23 15:29:29,775 DEBUG main internal.palette.PaletteState (?) - No palette persistence data exists.  Using defaults.
+ 2018-07-20 10:32:11,330 INFO Worker-1 composer.diagram.ComposerDiagramEditorPlugin (?) - Log4j has been successfully configured - Please see C:/dotnet composer project/arithmetic operation/.metadata/.plugins/com.genesyslab.composer.diagram for detailed logging
+ 2018-07-20 10:32:11,442 INFO Worker-1 internal.palette.BackingStore (?) - Try loading file - file:/C:/dotnet%20composer%20project/arithmetic%20operation/.metadata/.plugins/com.genesyslab.composer.diagram/studio_tooling.ctooling
+ 2018-07-20 10:32:11,501 INFO Worker-1 internal.palette.BackingStore (?) - Try loading file - file:/C:/dotnet%20composer%20project/arithmetic%20operation/.metadata/.plugins/com.genesyslab.composer.diagram/ird_tooling.ctooling
+ 

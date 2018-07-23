@@ -1,0 +1,155 @@
+2018-02-23 15:32:39.014 - appl_begin INIT_URL=http://GCDTP054.GADAGET.COM:80/arithmetic operation/src-gen/Main.vxml|DEFAULTS=file://c:\Program Files\GCTI\gvp\VP Media Control Platform 8.1\GVP_Media_Control_Platform\config\defaults-ng.vxml|ANI=sip:5115@GCDTP054.GADAGET.COM:50601|DNIS=sip:dialog@192.168.1.14:5070;gvp.debug=true;voicexml=http://GCDTP054.GADAGET.COM:80/arithmetic%20operation%2Fsrc-gen%2FMain.vxml|PROTOCOLNAME=sip|PROTOCOLVERSION=2.0|CALLIDREF=519872e871425e7957ed62307bbdbbde@192.168.1.154|VXMLI_TYPE=NGI - 5
+2018-02-23 15:32:39.014 - wf_lookup http://GCDTP054.GADAGET.COM:80/arithmetic operation/src-gen/Main.vxml - 5
+2018-02-23 15:32:39.014 - fetch_start document:http://GCDTP054.GADAGET.COM:80/arithmetic operation/src-gen/Main.vxml - 5
+2018-02-23 15:32:39.014 - wf_lookup file://c:/Program Files/GCTI/gvp/VP Media Control Platform 8.1/GVP_Media_Control_Platform/config/defaults-ng.vxml - 5
+2018-02-23 15:32:39.014 - fetch_start document:file://c:/Program Files/GCTI/gvp/VP Media Control Platform 8.1/GVP_Media_Control_Platform/config/defaults-ng.vxml - 5
+2018-02-23 15:32:39.014 - wf_arrived s (file):file://c:/Program Files/GCTI/gvp/VP Media Control Platform 8.1/GVP_Media_Control_Platform/config/defaults-ng.vxml - 5
+2018-02-23 15:32:39.014 - wf_arrived s (direct):http://GCDTP054.GADAGET.COM:80/arithmetic operation/src-gen/Main.vxml - 5
+2018-02-23 15:32:39.425 - fetch_start script:http://GCDTP054.GADAGET.COM:80/arithmetic%20operation/include/common.js - 78
+2018-02-23 15:32:39.425 - fetch_end Done (revalidated):http://GCDTP054.GADAGET.COM:80/arithmetic%20operation/include/common.js - 78
+2018-02-23 15:32:39.425 - eval_script external:../include/common.js done - 78
+2018-02-23 15:32:39.425 - fetch_start script:http://GCDTP054.GADAGET.COM:80/arithmetic%20operation/include/ctic.js - 78
+2018-02-23 15:32:39.425 - fetch_end Done (revalidated):http://GCDTP054.GADAGET.COM:80/arithmetic%20operation/include/ctic.js - 78
+2018-02-23 15:32:39.425 - eval_script external:../include/ctic.js done - 78
+2018-02-23 15:32:39.425 - fetch_start script:http://GCDTP054.GADAGET.COM:80/arithmetic%20operation/include/json.js - 78
+2018-02-23 15:32:39.425 - fetch_end Done (revalidated):http://GCDTP054.GADAGET.COM:80/arithmetic%20operation/include/json.js - 78
+2018-02-23 15:32:39.425 - eval_script external:../include/json.js done - 78
+2018-02-23 15:32:39.425 - fetch_start script:http://GCDTP054.GADAGET.COM:80/arithmetic%20operation/include/DataAccess.js - 78
+2018-02-23 15:32:39.425 - fetch_end Done (revalidated):http://GCDTP054.GADAGET.COM:80/arithmetic%20operation/include/DataAccess.js - 78
+2018-02-23 15:32:39.425 - eval_script external:../include/DataAccess.js done - 78
+2018-02-23 15:32:39.426 - eval_script inline:2306 done - 78
+2018-02-23 15:32:39.426 - eval_expr <Script>expr{:AppState.VOXFILEDIR + '/PromptSwitch.js'}=../Resources/Prompts/PromptSwitch.js - 78
+2018-02-23 15:32:39.426 - fetch_start script:http://GCDTP054.GADAGET.COM:80/arithmetic%20operation/Resources/Prompts/PromptSwitch.js - 78
+2018-02-23 15:32:39.426 - fetch_end Done (revalidated):http://GCDTP054.GADAGET.COM:80/arithmetic%20operation/Resources/Prompts/PromptSwitch.js - 78
+2018-02-23 15:32:39.426 - eval_script external:../Resources/Prompts/PromptSwitch.js done - 78
+2018-02-23 15:32:39.426 - eval_expr <Script>expr{:AppState.VOXFILEDIR + '/en-US/en-US.js'}=../Resources/Prompts/en-US/en-US.js - 78
+2018-02-23 15:32:39.426 - fetch_start script:http://GCDTP054.GADAGET.COM:80/arithmetic%20operation/Resources/Prompts/en-US/en-US.js - 78
+2018-02-23 15:32:39.426 - fetch_end Done (revalidated):http://GCDTP054.GADAGET.COM:80/arithmetic%20operation/Resources/Prompts/en-US/en-US.js - 78
+2018-02-23 15:32:39.426 - eval_script external:../Resources/Prompts/en-US/en-US.js done - 78
+2018-02-23 15:32:39.426 - eval_script inline:21 done - 78
+2018-02-23 15:32:39.426 - eval_expr <Script>expr{:AppState.VOXFILEDIR + '/en-US/customprompts.js'}=../Resources/Prompts/en-US/customprompts.js - 78
+2018-02-23 15:32:39.426 - fetch_start script:http://GCDTP054.GADAGET.COM:80/arithmetic%20operation/Resources/Prompts/en-US/customprompts.js - 78
+2018-02-23 15:32:39.426 - fetch_end Done (revalidated):http://GCDTP054.GADAGET.COM:80/arithmetic%20operation/Resources/Prompts/en-US/customprompts.js - 78
+2018-02-23 15:32:39.426 - eval_script external:../Resources/Prompts/en-US/customprompts.js done - 78
+2018-02-23 15:32:39.426 - compile_done :http://GCDTP054.GADAGET.COM:80/arithmetic operation/src-gen/Main.vxml - 78
+2018-02-23 15:32:39.426 - form_select :__FORMITEM_NAME_$76$_:BLOCK - 78
+2018-02-23 15:32:39.840 - goto :#Entry1 - 84
+2018-02-23 15:32:39.840 - form_enter :Entry1 - 84
+2018-02-23 15:32:39.840 - form_select :Entry:BLOCK - 84
+2018-02-23 15:32:40.260 - goto :#Prompt1 - 92
+2018-02-23 15:32:40.260 - form_enter :Prompt1 - 92
+2018-02-23 15:32:40.260 - form_select :Prompt1P0:BLOCK - 92
+2018-02-23 15:32:40.477 - eval_expr <Prompt>expr{:AppState.APP_LANGUAGE}=en-US - 97
+2018-02-23 15:32:40.477 - form_select :__FORMITEM_NAME_$77$_:BLOCK - 97
+2018-02-23 15:32:40.926 - goto :#Menu1 - 107
+2018-02-23 15:32:40.926 - form_enter :Menu1 - 107
+2018-02-23 15:32:40.926 - form_select :Menu1P0:BLOCK - 107
+2018-02-23 15:32:41.224 - eval_expr <Prompt>expr{:AppState.APP_LANGUAGE}=en-US - 115
+2018-02-23 15:32:41.224 - form_select :Menu1Option:FIELD - 115
+2018-02-23 15:32:49.175 - input_start :VOICE - 121
+2018-02-23 15:32:49.175 - prompt  - 121
+2018-02-23 15:32:49.175 - prompt_play tts|<?xml version="1.0" encoding="UTF-8"?><speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="en-US">welcome             press 1 for division     press 2 for subtraction     press 3 for multiplication</speak> - 121
+2018-02-23 15:32:49.175 - prompt_end done - 121
+2018-02-23 15:32:49.175 - dtmf :1 - 121
+2018-02-23 15:32:49.175 - input_end MATCHED|dtmf|Option|inline|1|1.000000 - 121
+2018-02-23 15:32:49.175 - filling :Menu1.Menu1Option:Field:1 - 121
+2018-02-23 15:32:49.175 - filled_enter all:Menu1Option - 121
+2018-02-23 15:32:49.805 - eval_cond :{Menu1Option == '1'}=true - 125
+2018-02-23 15:32:50.014 - goto :#Subdialog1 - 147
+2018-02-23 15:32:50.015 - form_enter :Subdialog1 - 147
+2018-02-23 15:32:50.015 - form_select :Subdialog1Subdialog:SUBDIALOG - 147
+2018-02-23 15:32:50.277 - subdialog_start :Subdialog1Subdialog:http://GCDTP054.GADAGET.COM:80/arithmetic%20operation/src-gen/subcallflow.vxml|param|varActionParentId;; - 5
+2018-02-23 15:32:50.278 - wf_lookup http://GCDTP054.GADAGET.COM:80/arithmetic%20operation/src-gen/subcallflow.vxml - 5
+2018-02-23 15:32:50.278 - fetch_start document:http://GCDTP054.GADAGET.COM:80/arithmetic%20operation/src-gen/subcallflow.vxml - 5
+2018-02-23 15:32:50.278 - wf_arrived s (direct):http://GCDTP054.GADAGET.COM:80/arithmetic%20operation/src-gen/subcallflow.vxml - 5
+2018-02-23 15:32:50.754 - fetch_start script:http://GCDTP054.GADAGET.COM:80/arithmetic%20operation/include/common.js - 81
+2018-02-23 15:32:50.754 - fetch_end Done (revalidated):http://GCDTP054.GADAGET.COM:80/arithmetic%20operation/include/common.js - 81
+2018-02-23 15:32:50.754 - eval_script external:../include/common.js done - 81
+2018-02-23 15:32:50.754 - fetch_start script:http://GCDTP054.GADAGET.COM:80/arithmetic%20operation/include/ctic.js - 81
+2018-02-23 15:32:50.754 - fetch_end Done (revalidated):http://GCDTP054.GADAGET.COM:80/arithmetic%20operation/include/ctic.js - 81
+2018-02-23 15:32:50.754 - eval_script external:../include/ctic.js done - 81
+2018-02-23 15:32:50.754 - fetch_start script:http://GCDTP054.GADAGET.COM:80/arithmetic%20operation/include/json.js - 81
+2018-02-23 15:32:50.754 - fetch_end Done (revalidated):http://GCDTP054.GADAGET.COM:80/arithmetic%20operation/include/json.js - 81
+2018-02-23 15:32:50.754 - eval_script external:../include/json.js done - 81
+2018-02-23 15:32:50.754 - fetch_start script:http://GCDTP054.GADAGET.COM:80/arithmetic%20operation/include/DataAccess.js - 81
+2018-02-23 15:32:50.754 - fetch_end Done (revalidated):http://GCDTP054.GADAGET.COM:80/arithmetic%20operation/include/DataAccess.js - 81
+2018-02-23 15:32:50.754 - eval_script external:../include/DataAccess.js done - 81
+2018-02-23 15:32:50.754 - eval_script inline:2242 done - 81
+2018-02-23 15:32:50.754 - eval_expr <Script>expr{:AppState.VOXFILEDIR + '/PromptSwitch.js'}=../Resources/Prompts/PromptSwitch.js - 81
+2018-02-23 15:32:50.754 - fetch_start script:http://GCDTP054.GADAGET.COM:80/arithmetic%20operation/Resources/Prompts/PromptSwitch.js - 81
+2018-02-23 15:32:50.754 - fetch_end Done (revalidated):http://GCDTP054.GADAGET.COM:80/arithmetic%20operation/Resources/Prompts/PromptSwitch.js - 81
+2018-02-23 15:32:50.754 - eval_script external:../Resources/Prompts/PromptSwitch.js done - 81
+2018-02-23 15:32:50.755 - eval_expr <Script>expr{:AppState.VOXFILEDIR + '/en-US/en-US.js'}=../Resources/Prompts/en-US/en-US.js - 81
+2018-02-23 15:32:50.755 - fetch_start script:http://GCDTP054.GADAGET.COM:80/arithmetic%20operation/Resources/Prompts/en-US/en-US.js - 81
+2018-02-23 15:32:50.755 - fetch_end Done (revalidated):http://GCDTP054.GADAGET.COM:80/arithmetic%20operation/Resources/Prompts/en-US/en-US.js - 81
+2018-02-23 15:32:50.755 - eval_script external:../Resources/Prompts/en-US/en-US.js done - 81
+2018-02-23 15:32:50.755 - eval_script inline:21 done - 81
+2018-02-23 15:32:50.755 - eval_expr <Script>expr{:AppState.VOXFILEDIR + '/en-US/customprompts.js'}=../Resources/Prompts/en-US/customprompts.js - 81
+2018-02-23 15:32:50.755 - fetch_start script:http://GCDTP054.GADAGET.COM:80/arithmetic%20operation/Resources/Prompts/en-US/customprompts.js - 81
+2018-02-23 15:32:50.755 - fetch_end Done (revalidated):http://GCDTP054.GADAGET.COM:80/arithmetic%20operation/Resources/Prompts/en-US/customprompts.js - 81
+2018-02-23 15:32:50.755 - eval_script external:../Resources/Prompts/en-US/customprompts.js done - 81
+2018-02-23 15:32:50.755 - compile_done :http://GCDTP054.GADAGET.COM:80/arithmetic%20operation/src-gen/subcallflow.vxml - 81
+2018-02-23 15:32:50.961 - form_select :varAction:BLOCK - 82
+2018-02-23 15:32:51.385 - eval_cond :{varActionParentId==''}=true - 84
+2018-02-23 15:32:51.592 - eval_cond :{AppState.EnableReports}=false - 89
+2018-02-23 15:32:51.592 - form_select :__FORMITEM_NAME_$79$_:BLOCK - 89
+2018-02-23 15:32:52.033 - goto :#Entry1 - 95
+2018-02-23 15:32:52.033 - form_enter :Entry1 - 95
+2018-02-23 15:32:52.033 - form_select :Entry:BLOCK - 95
+2018-02-23 15:32:52.447 - goto :#Input1 - 107
+2018-02-23 15:32:52.447 - form_enter :Input1 - 107
+2018-02-23 15:32:52.448 - form_select :Input1P0:BLOCK - 107
+2018-02-23 15:32:52.655 - eval_expr <Prompt>expr{:AppState.APP_LANGUAGE}=en-US - 114
+2018-02-23 15:32:52.655 - form_select :Input1Field:FIELD - 114
+2018-02-23 15:32:59.396 - input_start :VOICE - 119
+2018-02-23 15:32:59.396 - prompt  - 119
+2018-02-23 15:32:59.396 - prompt_play tts|<?xml version="1.0" encoding="UTF-8"?><speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="en-US">enter first number</speak> - 119
+2018-02-23 15:32:59.396 - prompt_end done - 119
+2018-02-23 15:32:59.396 - dtmf :5 - 119
+2018-02-23 15:32:59.397 - input_end MATCHED|dtmf|Field|external|5|1.000000 - 119
+2018-02-23 15:32:59.397 - filling :Input1.Input1Field:Field:5 - 119
+2018-02-23 15:32:59.397 - filled_enter all:Input1Field - 119
+2018-02-23 15:33:00.021 - goto :#Input2 - 135
+2018-02-23 15:33:00.021 - form_enter :Input2 - 135
+2018-02-23 15:33:00.021 - form_select :Input2P0:BLOCK - 135
+2018-02-23 15:33:00.233 - eval_expr <Prompt>expr{:AppState.APP_LANGUAGE}=en-US - 142
+2018-02-23 15:33:00.233 - form_select :Input2Field:FIELD - 142
+2018-02-23 15:33:06.532 - input_start :VOICE - 147
+2018-02-23 15:33:06.532 - prompt  - 147
+2018-02-23 15:33:06.533 - prompt_play tts|<?xml version="1.0" encoding="UTF-8"?><speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="en-US">enter the second number</speak> - 147
+2018-02-23 15:33:06.533 - prompt_end done - 147
+2018-02-23 15:33:06.533 - dtmf :5 - 147
+2018-02-23 15:33:06.533 - input_end MATCHED|dtmf|Field|external|5|1.000000 - 147
+2018-02-23 15:33:06.533 - filling :Input2.Input2Field:Field:5 - 147
+2018-02-23 15:33:06.533 - filled_enter all:Input2Field - 147
+2018-02-23 15:33:07.165 - goto :#Assign1 - 161
+2018-02-23 15:33:07.165 - form_enter :Assign1 - 161
+2018-02-23 15:33:07.165 - form_select :__FORMITEM_NAME_$80$_:BLOCK - 161
+2018-02-23 15:33:07.806 - goto :#Prompt1 - 171
+2018-02-23 15:33:07.806 - form_enter :Prompt1 - 171
+2018-02-23 15:33:07.806 - form_select :Prompt1P0:BLOCK - 171
+2018-02-23 15:33:08.013 - eval_expr <Prompt>expr{:AppState.APP_LANGUAGE}=en-US - 173
+2018-02-23 15:33:08.221 - eval_expr <Prompt>expr{:AppState.APP_LANGUAGE}=en-US - 179
+2018-02-23 15:33:08.221 - form_select :__FORMITEM_NAME_$81$_:BLOCK - 179
+2018-02-23 15:33:08.624 - goto :#Exit1 - 186
+2018-02-23 15:33:08.624 - form_enter :Exit1 - 186
+2018-02-23 15:33:08.625 - form_select :__FORMITEM_NAME_$82$_:BLOCK - 186
+2018-02-23 15:33:09.030 - eval_cond :{AppState.EnableReports}=false - 188
+2018-02-23 15:33:09.237 - subdialog_return :|event| - 149
+2018-02-23 15:33:09.237 - filling :Subdialog1.Subdialog1Subdialog:Subdialog:[object default] - 149
+2018-02-23 15:33:09.237 - filled_enter all - 149
+2018-02-23 15:33:09.633 - goto :#Disconnect1 - 182
+2018-02-23 15:33:09.633 - form_enter :Disconnect1 - 182
+2018-02-23 15:33:09.633 - form_select :__FORMITEM_NAME_$78$_:BLOCK - 182
+2018-02-23 15:33:12.184 - prompt  - 277
+2018-02-23 15:33:12.184 - fetch_start audio:http://GCDTP054.GADAGET.COM:80/arithmetic%20operation/Resources/Prompts/en-US/cardinals/001.vox - 277
+2018-02-23 15:33:12.184 - fetch_end Done (direct):http://GCDTP054.GADAGET.COM:80/arithmetic%20operation/Resources/Prompts/en-US/cardinals/001.vox - 277
+2018-02-23 15:33:12.184 - prompt_play audio|http://GCDTP054.GADAGET.COM:80/arithmetic%20operation/Resources/Prompts/en-US/cardinals/001.vox - 277
+2018-02-23 15:33:12.184 - exec_error Could not play audio http://GCDTP054.GADAGET.COM:80/arithmetic%20operation/Resources/Prompts/en-US/cardinals/001.vox - 277
+2018-02-23 15:33:12.184 - prompt_play tts|<?xml version="1.0" encoding="UTF-8"?><speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="en-US">thank you</speak> - 277
+2018-02-23 15:33:12.184 - prompt_end done - 277
+2018-02-23 15:33:12.184 - event connection.disconnect.hangup:1| - 277
+2018-02-23 15:33:12.185 - event_handler_enter :telephone.disconnect connection.disconnect|http://GCDTP054.GADAGET.COM:80/arithmetic operation/src-gen/Main.vxml - 277
+2018-02-23 15:33:12.614 - log Caught some kind of disconnect in the defaults voicexml page - 279
+2018-02-23 15:33:12.821 - event_handler_exit :telephone.disconnect connection.disconnect - 0
+2018-02-23 15:33:12.822 - appl_end  - 0

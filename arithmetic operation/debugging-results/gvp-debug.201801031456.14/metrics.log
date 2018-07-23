@@ -1,0 +1,46 @@
+2018-01-03 14:56:19.143 - appl_begin INIT_URL=http://GCDTP054.GADAGET.COM:80/arithmetic operation/src-gen/Main.vxml|DEFAULTS=file://c:\Program Files\GCTI\gvp\VP Media Control Platform 8.1\GVP_Media_Control_Platform\config\defaults-ng.vxml|ANI=sip:5115@GCDTP054.GADAGET.COM:50601|DNIS=sip:dialog@192.168.1.14:5070;gvp.debug=true;voicexml=http://GCDTP054.GADAGET.COM:80/arithmetic%20operation%2Fsrc-gen%2FMain.vxml|PROTOCOLNAME=sip|PROTOCOLVERSION=2.0|CALLIDREF=1f758cce867ae6313b05e8c1c17b5f5c@192.168.1.154|VXMLI_TYPE=NGI - 5
+2018-01-03 14:56:19.143 - wf_lookup http://GCDTP054.GADAGET.COM:80/arithmetic operation/src-gen/Main.vxml - 5
+2018-01-03 14:56:19.143 - fetch_start document:http://GCDTP054.GADAGET.COM:80/arithmetic operation/src-gen/Main.vxml - 5
+2018-01-03 14:56:19.143 - wf_lookup file://c:/Program Files/GCTI/gvp/VP Media Control Platform 8.1/GVP_Media_Control_Platform/config/defaults-ng.vxml - 5
+2018-01-03 14:56:19.143 - fetch_start document:file://c:/Program Files/GCTI/gvp/VP Media Control Platform 8.1/GVP_Media_Control_Platform/config/defaults-ng.vxml - 5
+2018-01-03 14:56:19.143 - wf_arrived s (direct):http://GCDTP054.GADAGET.COM:80/arithmetic operation/src-gen/Main.vxml - 5
+2018-01-03 14:56:19.143 - wf_arrived s (file):file://c:/Program Files/GCTI/gvp/VP Media Control Platform 8.1/GVP_Media_Control_Platform/config/defaults-ng.vxml - 5
+2018-01-03 14:56:19.548 - fetch_start script:http://GCDTP054.GADAGET.COM:80/arithmetic%20operation/include/common.js - 78
+2018-01-03 14:56:19.548 - fetch_end Done (revalidated):http://GCDTP054.GADAGET.COM:80/arithmetic%20operation/include/common.js - 78
+2018-01-03 14:56:19.548 - eval_script external:../include/common.js done - 78
+2018-01-03 14:56:19.548 - fetch_start script:http://GCDTP054.GADAGET.COM:80/arithmetic%20operation/include/ctic.js - 78
+2018-01-03 14:56:19.548 - fetch_end Done (revalidated):http://GCDTP054.GADAGET.COM:80/arithmetic%20operation/include/ctic.js - 78
+2018-01-03 14:56:19.548 - eval_script external:../include/ctic.js done - 78
+2018-01-03 14:56:19.548 - fetch_start script:http://GCDTP054.GADAGET.COM:80/arithmetic%20operation/include/json.js - 78
+2018-01-03 14:56:19.548 - fetch_end Done (revalidated):http://GCDTP054.GADAGET.COM:80/arithmetic%20operation/include/json.js - 78
+2018-01-03 14:56:19.548 - eval_script external:../include/json.js done - 78
+2018-01-03 14:56:19.548 - fetch_start script:http://GCDTP054.GADAGET.COM:80/arithmetic%20operation/include/DataAccess.js - 78
+2018-01-03 14:56:19.548 - fetch_end Done (revalidated):http://GCDTP054.GADAGET.COM:80/arithmetic%20operation/include/DataAccess.js - 78
+2018-01-03 14:56:19.548 - eval_script external:../include/DataAccess.js done - 78
+2018-01-03 14:56:19.548 - eval_script inline:2306 done - 78
+2018-01-03 14:56:19.548 - eval_expr <Script>expr{:AppState.VOXFILEDIR + '/PromptSwitch.js'}=../Resources/Prompts/PromptSwitch.js - 78
+2018-01-03 14:56:19.548 - fetch_start script:http://GCDTP054.GADAGET.COM:80/arithmetic%20operation/Resources/Prompts/PromptSwitch.js - 78
+2018-01-03 14:56:19.548 - fetch_end Done (revalidated):http://GCDTP054.GADAGET.COM:80/arithmetic%20operation/Resources/Prompts/PromptSwitch.js - 78
+2018-01-03 14:56:19.548 - eval_script external:../Resources/Prompts/PromptSwitch.js done - 78
+2018-01-03 14:56:19.548 - eval_expr <Script>expr{:AppState.VOXFILEDIR + '/en-US/en-US.js'}=../Resources/Prompts/en-US/en-US.js - 78
+2018-01-03 14:56:19.548 - fetch_start script:http://GCDTP054.GADAGET.COM:80/arithmetic%20operation/Resources/Prompts/en-US/en-US.js - 78
+2018-01-03 14:56:19.548 - fetch_end Done (revalidated):http://GCDTP054.GADAGET.COM:80/arithmetic%20operation/Resources/Prompts/en-US/en-US.js - 78
+2018-01-03 14:56:19.548 - eval_script external:../Resources/Prompts/en-US/en-US.js done - 78
+2018-01-03 14:56:19.548 - eval_script inline:21 done - 78
+2018-01-03 14:56:19.548 - eval_expr <Script>expr{:AppState.VOXFILEDIR + '/en-US/customprompts.js'}=../Resources/Prompts/en-US/customprompts.js - 78
+2018-01-03 14:56:19.548 - fetch_start script:http://GCDTP054.GADAGET.COM:80/arithmetic%20operation/Resources/Prompts/en-US/customprompts.js - 78
+2018-01-03 14:56:19.549 - fetch_end Done (revalidated):http://GCDTP054.GADAGET.COM:80/arithmetic%20operation/Resources/Prompts/en-US/customprompts.js - 78
+2018-01-03 14:56:19.549 - eval_script external:../Resources/Prompts/en-US/customprompts.js done - 78
+2018-01-03 14:56:19.549 - compile_done :http://GCDTP054.GADAGET.COM:80/arithmetic operation/src-gen/Main.vxml - 78
+2018-01-03 14:56:19.549 - form_select :__FORMITEM_NAME_$577$_:BLOCK - 78
+2018-01-03 14:56:19.965 - goto :#Entry1 - 84
+2018-01-03 14:56:19.965 - form_enter :Entry1 - 84
+2018-01-03 14:56:19.965 - form_select :Entry:BLOCK - 84
+2018-01-03 14:56:27.233 - goto :#Prompt1 - 92
+2018-01-03 14:56:27.233 - form_enter :Prompt1 - 92
+2018-01-03 14:56:27.233 - form_select :Prompt1P0:BLOCK - 92
+2018-01-03 14:56:29.172 - eval_expr <Prompt>expr{:AppState.APP_LANGUAGE}=en-US - 97
+2018-01-03 14:56:29.172 - form_select :__FORMITEM_NAME_$578$_:BLOCK - 97
+2018-01-03 14:56:29.604 - goto :#Menu1 - 107
+2018-01-03 14:56:29.604 - form_enter :Menu1 - 107
+2018-01-03 14:56:29.604 - form_select :Menu1P0:BLOCK - 107

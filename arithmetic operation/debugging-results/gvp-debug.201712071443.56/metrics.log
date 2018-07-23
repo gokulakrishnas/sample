@@ -1,0 +1,8 @@
+2017-12-07 14:44:00.188 - appl_begin INIT_URL=http://GCDTP054.GADAGET.COM:80/arithmetic operation/src-gen/Main.vxml|DEFAULTS=file://c:\Program Files\GCTI\gvp\VP Media Control Platform 8.1\GVP_Media_Control_Platform\config\defaults-ng.vxml|ANI=sip:5115@GCDTP054.GADAGET.COM:50601|DNIS=sip:dialog@192.168.1.14:5070;gvp.debug=true;voicexml=http://GCDTP054.GADAGET.COM:80/arithmetic%20operation%2Fsrc-gen%2FMain.vxml|PROTOCOLNAME=sip|PROTOCOLVERSION=2.0|CALLIDREF=788dacc3a494e59af03ce1a53be58e1e@192.168.1.154|VXMLI_TYPE=NGI - 0
+2017-12-07 14:44:00.188 - wf_lookup http://GCDTP054.GADAGET.COM:80/arithmetic operation/src-gen/Main.vxml - 0
+2017-12-07 14:44:00.191 - fetch_start document:http://GCDTP054.GADAGET.COM:80/arithmetic operation/src-gen/Main.vxml - 0
+2017-12-07 14:44:00.191 - wf_lookup file://c:/Program Files/GCTI/gvp/VP Media Control Platform 8.1/GVP_Media_Control_Platform/config/defaults-ng.vxml - 0
+2017-12-07 14:44:00.191 - fetch_start document:file://c:/Program Files/GCTI/gvp/VP Media Control Platform 8.1/GVP_Media_Control_Platform/config/defaults-ng.vxml - 0
+2017-12-07 14:44:00.191 - wf_arrived s (file):file://c:/Program Files/GCTI/gvp/VP Media Control Platform 8.1/GVP_Media_Control_Platform/config/defaults-ng.vxml - 0
+2017-12-07 14:44:00.191 - wf_arrived s (direct):http://GCDTP054.GADAGET.COM:80/arithmetic operation/src-gen/Main.vxml - 0
+2017-12-07 14:44:00.191 - appl_end  - 0

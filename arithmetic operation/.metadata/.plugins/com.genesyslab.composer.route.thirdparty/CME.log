@@ -1,0 +1,49 @@
+2018-02-23 15:27:39,097 INFO main commons.log.Log - Checking PSDK jars versions:
+ 2018-02-23 15:27:39,600 DEBUG main timer.impl.SchedulerImpl - Initialize PSDK-Timer
+ 2018-02-23 15:27:40,414 INFO main commons.log.Log - PSDK jar in the classpath: kvlists.jar of 8.1.400.03 (com.genesyslab.platform.commons.collections by Genesys Telecommunication Laboratories, Inc.)
+ 2018-02-23 15:27:40,415 INFO main commons.log.Log - PSDK jar in the classpath: kvlistbinding.jar of 8.1.400.03 (com.genesyslab.platform.commons.collections.keyvaluebinding by Genesys Telecommunication Laboratories, Inc.)
+ 2018-02-23 15:27:40,416 INFO main commons.log.Log - PSDK jar in the classpath: commons.jar of 8.1.400.03 (com.genesyslab.platform.commons by Genesys Telecommunication Laboratories, Inc.)
+ 2018-02-23 15:27:40,417 INFO main commons.log.Log - PSDK jar in the classpath: system.jar of 8.1.400.03 (com.genesyslab.platform.system by Genesys Telecommunication Laboratories, Inc.)
+ 2018-02-23 15:27:40,418 INFO main commons.log.Log - PSDK jar in the classpath: connection.jar of 8.1.400.03 (com.genesyslab.platform.commons.connection by Genesys Telecommunication Laboratories, Inc.)
+ 2018-02-23 15:27:40,419 INFO main commons.log.Log - PSDK jar in the classpath: protocol.jar of 8.1.400.03 (com.genesyslab.platform.commons.protocol by Genesys Telecommunication Laboratories, Inc.)
+ 2018-02-23 15:27:40,420 INFO main commons.log.Log - PSDK jar in the classpath: configurationprotocol.jar of 8.1.400.03 (com.genesyslab.platform.configuration.protocol by Genesys Telecommunication Laboratories, Inc.)
+ 2018-02-23 15:27:40,421 INFO main commons.log.Log - PSDK jar in the classpath: contactsprotocol.jar of 8.1.400.03 (com.genesyslab.platform.contacts.protocol by Genesys Telecommunication Laboratories, Inc.)
+ 2018-02-23 15:27:40,422 INFO main commons.log.Log - PSDK jar in the classpath: managementprotocol.jar of 8.1.400.03 (com.genesyslab.platform.management.protocol by Genesys Telecommunication Laboratories, Inc.)
+ 2018-02-23 15:27:40,423 INFO main commons.log.Log - PSDK jar in the classpath: openmediaprotocol.jar of 8.1.400.03 (com.genesyslab.platform.openmedia.protocol by Genesys Telecommunication Laboratories, Inc.)
+ 2018-02-23 15:27:40,424 INFO main commons.log.Log - PSDK jar in the classpath: outboundprotocol.jar of 8.1.400.03 (com.genesyslab.platform.outbound/protocol by Genesys Telecommunication Laboratories, Inc.)
+ 2018-02-23 15:27:40,424 INFO main commons.log.Log - PSDK jar in the classpath: routingprotocol.jar of 8.1.400.03 (com.genesyslab.platform.routing.protocol by Genesys Telecommunication Laboratories, Inc.)
+ 2018-02-23 15:27:40,425 INFO main commons.log.Log - PSDK jar in the classpath: reportingprotocol.jar of 8.1.400.03 (com.genesyslab.platform.reporting.protocol by Genesys Telecommunication Laboratories, Inc.)
+ 2018-02-23 15:27:40,426 INFO main commons.log.Log - PSDK jar in the classpath: voiceprotocol.jar of 8.1.400.03 (com.genesyslab.platform.voice.protocol by Genesys Telecommunication Laboratories, Inc.)
+ 2018-02-23 15:27:40,427 INFO main commons.log.Log - PSDK jar in the classpath: webmediaprotocol.jar of 8.1.400.03 (com.genesyslab.platform.webmedia.protocol by Genesys Telecommunication Laboratories, Inc.)
+ 2018-02-23 15:27:40,428 INFO main commons.log.Log - PSDK jar in the classpath: messagebrokerappblock.jar of 8.1.400.03 (com.genesyslab.platform.applicationblocks.commons by Genesys Telecommunication Laboratories, Inc.)
+ 2018-02-23 15:27:40,429 INFO main commons.log.Log - PSDK jar in the classpath: warmstandbyappblock.jar of 8.1.400.03 (com.genesyslab.platform.applicationblocks.warmstandby by Genesys Telecommunication Laboratories, Inc.)
+ 2018-02-23 15:27:40,430 INFO main commons.log.Log - PSDK jar in the classpath: protocolmanagerappblock.jar of 8.1.400.03 (com.genesyslab.platform.applicationblocks.commons.protocols by Genesys Telecommunication Laboratories, Inc.)
+ 2018-02-23 15:27:40,431 INFO main commons.log.Log - PSDK jar in the classpath: comappblock.jar of 8.1.400.03 (com.genesyslab.platform.applicationblocks.com by Genesys Telecommunication Laboratories, Inc.)
+ 2018-02-23 15:27:40,439 INFO com.genesyslab.PCT.invoker.COM-MessageBroker commons.threading.SingleThreadInvoker - SingleThreadInvoker('COM-MessageBroker') has started
+ 2018-02-23 15:27:45,921 DEBUG PSDK.Timer timer.impl.SchedulerImpl - Query to stop PSDK-Timer automatically due a inactivity
+ 2018-02-23 15:27:45,921 DEBUG PSDK.Timer timer.impl.SchedulerImpl - Stop PSDK-Timer
+ 2018-07-20 10:32:06,789 INFO main commons.log.Log - Checking PSDK jars versions:
+ 2018-07-20 10:32:06,836 DEBUG main timer.impl.SchedulerImpl - Initialize PSDK-Timer
+ 2018-07-20 10:32:07,184 INFO main commons.log.Log - PSDK jar in the classpath: kvlists.jar of 8.1.400.03 (com.genesyslab.platform.commons.collections by Genesys Telecommunication Laboratories, Inc.)
+ 2018-07-20 10:32:07,185 INFO main commons.log.Log - PSDK jar in the classpath: kvlistbinding.jar of 8.1.400.03 (com.genesyslab.platform.commons.collections.keyvaluebinding by Genesys Telecommunication Laboratories, Inc.)
+ 2018-07-20 10:32:07,185 INFO main commons.log.Log - PSDK jar in the classpath: commons.jar of 8.1.400.03 (com.genesyslab.platform.commons by Genesys Telecommunication Laboratories, Inc.)
+ 2018-07-20 10:32:07,186 INFO main commons.log.Log - PSDK jar in the classpath: system.jar of 8.1.400.03 (com.genesyslab.platform.system by Genesys Telecommunication Laboratories, Inc.)
+ 2018-07-20 10:32:07,187 INFO main commons.log.Log - PSDK jar in the classpath: connection.jar of 8.1.400.03 (com.genesyslab.platform.commons.connection by Genesys Telecommunication Laboratories, Inc.)
+ 2018-07-20 10:32:07,188 INFO main commons.log.Log - PSDK jar in the classpath: protocol.jar of 8.1.400.03 (com.genesyslab.platform.commons.protocol by Genesys Telecommunication Laboratories, Inc.)
+ 2018-07-20 10:32:07,189 INFO main commons.log.Log - PSDK jar in the classpath: configurationprotocol.jar of 8.1.400.03 (com.genesyslab.platform.configuration.protocol by Genesys Telecommunication Laboratories, Inc.)
+ 2018-07-20 10:32:07,189 INFO main commons.log.Log - PSDK jar in the classpath: contactsprotocol.jar of 8.1.400.03 (com.genesyslab.platform.contacts.protocol by Genesys Telecommunication Laboratories, Inc.)
+ 2018-07-20 10:32:07,190 INFO main commons.log.Log - PSDK jar in the classpath: managementprotocol.jar of 8.1.400.03 (com.genesyslab.platform.management.protocol by Genesys Telecommunication Laboratories, Inc.)
+ 2018-07-20 10:32:07,191 INFO main commons.log.Log - PSDK jar in the classpath: openmediaprotocol.jar of 8.1.400.03 (com.genesyslab.platform.openmedia.protocol by Genesys Telecommunication Laboratories, Inc.)
+ 2018-07-20 10:32:07,191 INFO main commons.log.Log - PSDK jar in the classpath: outboundprotocol.jar of 8.1.400.03 (com.genesyslab.platform.outbound/protocol by Genesys Telecommunication Laboratories, Inc.)
+ 2018-07-20 10:32:07,192 INFO main commons.log.Log - PSDK jar in the classpath: routingprotocol.jar of 8.1.400.03 (com.genesyslab.platform.routing.protocol by Genesys Telecommunication Laboratories, Inc.)
+ 2018-07-20 10:32:07,192 INFO main commons.log.Log - PSDK jar in the classpath: reportingprotocol.jar of 8.1.400.03 (com.genesyslab.platform.reporting.protocol by Genesys Telecommunication Laboratories, Inc.)
+ 2018-07-20 10:32:07,193 INFO main commons.log.Log - PSDK jar in the classpath: voiceprotocol.jar of 8.1.400.03 (com.genesyslab.platform.voice.protocol by Genesys Telecommunication Laboratories, Inc.)
+ 2018-07-20 10:32:07,194 INFO main commons.log.Log - PSDK jar in the classpath: webmediaprotocol.jar of 8.1.400.03 (com.genesyslab.platform.webmedia.protocol by Genesys Telecommunication Laboratories, Inc.)
+ 2018-07-20 10:32:07,195 INFO main commons.log.Log - PSDK jar in the classpath: messagebrokerappblock.jar of 8.1.400.03 (com.genesyslab.platform.applicationblocks.commons by Genesys Telecommunication Laboratories, Inc.)
+ 2018-07-20 10:32:07,195 INFO main commons.log.Log - PSDK jar in the classpath: warmstandbyappblock.jar of 8.1.400.03 (com.genesyslab.platform.applicationblocks.warmstandby by Genesys Telecommunication Laboratories, Inc.)
+ 2018-07-20 10:32:07,196 INFO main commons.log.Log - PSDK jar in the classpath: protocolmanagerappblock.jar of 8.1.400.03 (com.genesyslab.platform.applicationblocks.commons.protocols by Genesys Telecommunication Laboratories, Inc.)
+ 2018-07-20 10:32:07,197 INFO main commons.log.Log - PSDK jar in the classpath: comappblock.jar of 8.1.400.03 (com.genesyslab.platform.applicationblocks.com by Genesys Telecommunication Laboratories, Inc.)
+ 2018-07-20 10:32:07,200 INFO com.genesyslab.PCT.invoker.COM-MessageBroker commons.threading.SingleThreadInvoker - SingleThreadInvoker('COM-MessageBroker') has started
+ 2018-07-20 10:32:12,883 DEBUG PSDK.Timer timer.impl.SchedulerImpl - Query to stop PSDK-Timer automatically due a inactivity
+ 2018-07-20 10:32:12,883 DEBUG PSDK.Timer timer.impl.SchedulerImpl - Stop PSDK-Timer
+ 

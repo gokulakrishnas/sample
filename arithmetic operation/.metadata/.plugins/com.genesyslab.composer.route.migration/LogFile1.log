@@ -1,0 +1,20 @@
+2018-07-20 10:32:11,806 INFO Worker-1 migration.commandline.CommandLineMigration (?) - IRD Migration command line (8) args: -launcher
+ 2018-07-20 10:32:11,807 INFO Worker-1 migration.commandline.CommandLineMigration (?) - IRD Migration command line (9) args: E:\Software\eclipse-kepler\eclipse.exe
+ 2018-07-20 10:32:11,808 INFO Worker-1 migration.commandline.CommandLineMigration (?) - IRD Migration command line (10) args: -name
+ 2018-07-20 10:32:11,809 INFO Worker-1 migration.commandline.CommandLineMigration (?) - IRD Migration command line (11) args: Eclipse
+ 2018-07-20 10:32:11,810 INFO Worker-1 migration.commandline.CommandLineMigration (?) - IRD Migration command line (12) args: --launcher.library
+ 2018-07-20 10:32:11,810 INFO Worker-1 migration.commandline.CommandLineMigration (?) - IRD Migration command line (13) args: E:\Software\eclipse-kepler\\plugins/org.eclipse.equinox.launcher.win32.win32.x86_64_1.1.200.v20140116-2212\eclipse_1503.dll
+ 2018-07-20 10:32:11,811 INFO Worker-1 migration.commandline.CommandLineMigration (?) - IRD Migration command line (14) args: -startup
+ 2018-07-20 10:32:11,812 INFO Worker-1 migration.commandline.CommandLineMigration (?) - IRD Migration command line (15) args: E:\Software\eclipse-kepler\\plugins/org.eclipse.equinox.launcher_1.3.0.v20130327-1440.jar
+ 2018-07-20 10:32:11,813 INFO Worker-1 migration.commandline.CommandLineMigration (?) - IRD Migration command line (16) args: --launcher.appendVmargs
+ 2018-07-20 10:32:11,814 INFO Worker-1 migration.commandline.CommandLineMigration (?) - IRD Migration command line (17) args: -product
+ 2018-07-20 10:32:11,814 INFO Worker-1 migration.commandline.CommandLineMigration (?) - IRD Migration command line (18) args: org.eclipse.epp.package.standard.product
+ 2018-07-20 10:32:11,815 INFO Worker-1 migration.commandline.CommandLineMigration (?) - IRD Migration command line (19) args: -data
+ 2018-07-20 10:32:11,817 INFO Worker-1 migration.commandline.CommandLineMigration (?) - IRD Migration command line (20) args: C:\dotnet composer project\arithmetic operation
+ 2018-07-20 10:32:11,817 INFO Worker-1 migration.commandline.CommandLineMigration (?) - IRD Migration command line (21) args: -launcher
+ 2018-07-20 10:32:11,821 INFO Worker-1 migration.commandline.CommandLineMigration (?) - IRD Migration command line (22) args: E:\Software\eclipse-kepler\eclipse.exe
+ 2018-07-20 10:32:11,829 INFO Worker-1 migration.commandline.CommandLineMigration (?) - IRD Migration command line (23) args: -product
+ 2018-07-20 10:32:11,830 INFO Worker-1 migration.commandline.CommandLineMigration (?) - IRD Migration command line (24) args: org.eclipse.epp.package.standard.product
+ 2018-07-20 10:32:11,831 INFO Worker-1 migration.commandline.CommandLineMigration (?) - IRD Migration command line (25) args: -vm
+ 2018-07-20 10:32:11,832 INFO Worker-1 migration.commandline.CommandLineMigration (?) - IRD Migration command line (26) args: E:\Software\eclipse-kepler\jre\bin\server\jvm.dll
+ 
